@@ -1,0 +1,181 @@
+# Translation of kcmkonq into Japanese.
+# This file is distributed under the same license as the kdebase package.
+# Taiki Komoda <kom@kde.gr.jp>, 2003.
+# Shinsaku Nakagawa <shinsaku@users.sourceforge.jp>, 2004.
+# Kenshi Muto <kmuto@debian.org>, 2004.
+# Shinichi Tsunoda <tsuno@ngy.1st.ne.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007, 2008, 2009, 2010.
+# Ryuichi Yamada <ryuichi_ya220@outlook.jp>, 2022.
+# Fumiaki Okushi <fumiaki.okushi@gmail.com>, 2005, 2006, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkonq\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-06 02:04+0000\n"
+"PO-Revision-Date: 2022-08-20 23:04-0700\n"
+"Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
+"Language-Team: Japanese <kde-jp@kde.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 22.04.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: desktoppathssettings.cpp:210
+#, kde-format
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: desktoppathssettings.cpp:225
+#, kde-format
+msgid "Documents"
+msgstr "ドキュメント"
+
+#: desktoppathssettings.cpp:240
+#, kde-format
+msgid "Downloads"
+msgstr "ダウンロード"
+
+#: desktoppathssettings.cpp:255
+#, kde-format
+msgid "Music"
+msgstr "音楽"
+
+#: desktoppathssettings.cpp:270
+#, kde-format
+msgid "Pictures"
+msgstr "画像"
+
+#: desktoppathssettings.cpp:285
+#, kde-format
+msgid "Videos"
+msgstr "ビデオ"
+
+#: desktoppathssettings.cpp:300
+#, kde-format
+msgid "Public"
+msgstr ""
+
+#: desktoppathssettings.cpp:315
+#, kde-format
+msgid "Templates"
+msgstr ""
+
+#: ui/main.qml:52
+#, kde-format
+msgid "Desktop path:"
+msgstr "デスクトップのパス:"
+
+#: ui/main.qml:58
+#, kde-format
+msgid ""
+"This folder contains all the files which you see on your desktop. You can "
+"change the location of this folder if you want to, and the contents will "
+"move automatically to the new location as well."
+msgstr ""
+"このフォルダにはデスクトップに表示するすべてのファイルが含まれています。この"
+"フォルダの場所は自由に変更できます。変更すると、その中身も自動的に新しい場所"
+"へ移動します。"
+
+#: ui/main.qml:66
+#, kde-format
+msgid "Documents path:"
+msgstr "ドキュメントのパス:"
+
+#: ui/main.qml:72
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save documents from or to."
+msgstr ""
+"このフォルダはドキュメントのデフォルトの読み込み/保存先として使われます。"
+
+#: ui/main.qml:80
+#, kde-format
+msgid "Downloads path:"
+msgstr "ダウンロードのパス:"
+
+#: ui/main.qml:86
+#, kde-format
+msgid "This folder will be used by default to save your downloaded items."
+msgstr ""
+"このフォルダはダウンロードしたアイテムのデフォルトの保存先として使われます。"
+
+#: ui/main.qml:94
+#, kde-format
+msgid "Videos path:"
+msgstr "ビデオのパス:"
+
+#: ui/main.qml:100 ui/main.qml:142
+#, kde-format
+msgid "This folder will be used by default to load or save movies from or to."
+msgstr "このフォルダはビデオのデフォルトの読み込み/保存先として使われます。"
+
+#: ui/main.qml:108
+#, kde-format
+msgid "Pictures path:"
+msgstr "画像のパス:"
+
+#: ui/main.qml:114
+#, kde-format
+msgid ""
+"This folder will be used by default to load or save pictures from or to."
+msgstr "このフォルダは画像のデフォルトの読み込み/保存先として使われます。"
+
+#: ui/main.qml:122
+#, kde-format
+msgid "Music path:"
+msgstr "音楽のパス:"
+
+#: ui/main.qml:128
+#, kde-format
+msgid "This folder will be used by default to load or save music from or to."
+msgstr "このフォルダは音楽のデフォルトの読み込み/保存先として使われます。"
+
+#: ui/main.qml:136
+#, fuzzy, kde-format
+#| msgid "Music path:"
+msgid "Public path:"
+msgstr "音楽のパス:"
+
+#: ui/main.qml:150
+#, fuzzy, kde-format
+#| msgid "Pictures path:"
+msgid "Templates path:"
+msgstr "画像のパス:"
+
+#: ui/main.qml:156
+#, fuzzy, kde-format
+#| msgid ""
+#| "This folder will be used by default to load or save pictures from or to."
+msgid ""
+"This folder will be used by default to load or save templates from or to."
+msgstr "このフォルダは画像のデフォルトの読み込み/保存先として使われます。"
+
+#: ui/UrlRequester.qml:74
+#, kde-format
+msgctxt "@action:button"
+msgid "Choose new location"
+msgstr ""
+
+#~ msgid ""
+#~ "<h1>Paths</h1>\n"
+#~ "This module allows you to choose where in the filesystem the files on "
+#~ "your desktop should be stored.\n"
+#~ "Use the \"Whats This?\" (Shift+F1) to get help on specific options."
+#~ msgstr ""
+#~ "<h1>パス</h1>\n"
+#~ "このモジュールでは、デスクトップ上のファイルをファイルシステムのどこに保存"
+#~ "するかを設定します。\n"
+#~ "各オプションのヘルプを見るには「これは何？」(Shift+F1) を使ってください。"
+
+#, fuzzy
+#~| msgid ""
+#~| "This folder will be used by default to load or save pictures from or to."
+#~ msgid ""
+#~ "This folder will be used by default to load or save public shares from or "
+#~ "to."
+#~ msgstr "このフォルダは画像のデフォルトの読み込み/保存先として使われます。"

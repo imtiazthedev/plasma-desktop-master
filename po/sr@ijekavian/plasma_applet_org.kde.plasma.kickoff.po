@@ -1,0 +1,331 @@
+# Translation of plasma_applet_org.kde.plasma.kickoff.po into Serbian.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2013, 2014, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.kickoff\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-26 02:00+0000\n"
+"PO-Revision-Date: 2017-09-25 19:53+0200\n"
+"Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"Language: sr@ijekavian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Environment: kde\n"
+
+#: package/contents/config/config.qml:13
+#, kde-format
+msgid "General"
+msgstr ""
+
+#: package/contents/ui/code/tools.js:49
+#, kde-format
+msgid "Remove from Favorites"
+msgstr "Уклони из омиљених"
+
+#: package/contents/ui/code/tools.js:53
+#, kde-format
+msgid "Add to Favorites"
+msgstr "Додај у омиљене"
+
+#: package/contents/ui/code/tools.js:77
+#, kde-format
+msgid "On All Activities"
+msgstr "На свим активностима"
+
+#: package/contents/ui/code/tools.js:127
+#, fuzzy, kde-format
+#| msgid "On The Current Activity"
+msgid "On the Current Activity"
+msgstr "На текућој активности"
+
+#: package/contents/ui/code/tools.js:141
+#, fuzzy, kde-format
+#| msgid "Show In Favorites"
+msgid "Show in Favorites"
+msgstr "Прикажи у омиљенима"
+
+#: package/contents/ui/ConfigGeneral.qml:40
+#, kde-format
+msgid "Icon:"
+msgstr "Иконица:"
+
+#: package/contents/ui/ConfigGeneral.qml:46
+#, kde-format
+msgctxt "@action:button"
+msgid "Change Application Launcher's icon"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:47
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"Current icon is %1. Click to open menu to change the current icon or reset "
+"to the default icon."
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:51
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Icon name is \"%1\""
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:84
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu Open icon chooser dialog"
+#| msgid "Choose..."
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "Изаберите..."
+
+#: package/contents/ui/ConfigGeneral.qml:86
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "Choose an icon for Application Launcher"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:90
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Reset to default icon"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:96
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Remove icon"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:107
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Text label:"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:109
+#, kde-format
+msgctxt "@info:placeholder"
+msgid "Type here to add a text label"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:124
+#, kde-format
+msgctxt "@action:button"
+msgid "Reset menu label"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:138
+#, kde-format
+msgctxt "@info"
+msgid "A text label cannot be set when the Panel is vertical."
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:149
+#, kde-format
+msgctxt "General options"
+msgid "General:"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:150
+#, fuzzy, kde-format
+#| msgid "Sort alphabetically"
+msgid "Always sort applications alphabetically"
+msgstr "Поређај азбучно"
+
+#: package/contents/ui/ConfigGeneral.qml:155
+#, kde-format
+msgid "Use compact list item style"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:161
+#, kde-format
+msgctxt "@info:usagetip under a checkbox when Touch Mode is on"
+msgid "Automatically disabled when in Touch Mode"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:170
+#, kde-format
+msgctxt "@action:button"
+msgid "Configure Enabled Search Plugins…"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:180
+#, fuzzy, kde-format
+#| msgid "Show In Favorites"
+msgid "Show favorites:"
+msgstr "Прикажи у омиљенима"
+
+#: package/contents/ui/ConfigGeneral.qml:181
+#, kde-format
+msgctxt "Part of a sentence: 'Show favorites in a grid'"
+msgid "In a grid"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:189
+#, kde-format
+msgctxt "Part of a sentence: 'Show favorites in a list'"
+msgid "In a list"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:197
+#, fuzzy, kde-format
+#| msgid "Show applications by name"
+msgid "Show other applications:"
+msgstr "Прикажи програме по имену"
+
+#: package/contents/ui/ConfigGeneral.qml:198
+#, kde-format
+msgctxt "Part of a sentence: 'Show other applications in a grid'"
+msgid "In a grid"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:206
+#, kde-format
+msgctxt "Part of a sentence: 'Show other applications in a list'"
+msgid "In a list"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:218
+#, kde-format
+msgid "Show buttons for:"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:219
+#: package/contents/ui/LeaveButtons.qml:116
+#, kde-format
+msgid "Power"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:228
+#, kde-format
+msgid "Session"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:237
+#, kde-format
+msgid "Power and session"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:246
+#, kde-format
+msgid "Show action button captions"
+msgstr ""
+
+#: package/contents/ui/Footer.qml:98
+#, kde-format
+msgid "Applications"
+msgstr "Програми"
+
+#: package/contents/ui/Footer.qml:111
+#, kde-format
+msgid "Places"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:144
+#, kde-format
+msgctxt "@info:status"
+msgid "No matches"
+msgstr ""
+
+#: package/contents/ui/Header.qml:65
+#, kde-format
+msgid "Open user settings"
+msgstr ""
+
+#: package/contents/ui/Header.qml:218
+#, kde-format
+msgid "Keep Open"
+msgstr ""
+
+#: package/contents/ui/Kickoff.qml:304
+#, fuzzy, kde-format
+#| msgid "Edit Applications..."
+msgid "Edit Applications…"
+msgstr "Уреди програме..."
+
+#: package/contents/ui/KickoffGridView.qml:89
+#, kde-format
+msgid "Grid with %1 rows, %2 columns"
+msgstr ""
+
+# >> Leave as in logout, shutdown, reset...
+#: package/contents/ui/LeaveButtons.qml:116
+#, kde-format
+msgid "Leave"
+msgstr "Напусти"
+
+#: package/contents/ui/LeaveButtons.qml:116
+#, kde-format
+msgid "More"
+msgstr ""
+
+#: package/contents/ui/PlacesPage.qml:48
+#, fuzzy, kde-format
+#| msgid "Computer"
+msgctxt "category in Places sidebar"
+msgid "Computer"
+msgstr "Рачунар"
+
+#: package/contents/ui/PlacesPage.qml:49
+#, fuzzy, kde-format
+#| msgid "History"
+msgctxt "category in Places sidebar"
+msgid "History"
+msgstr "Историјат"
+
+#: package/contents/ui/PlacesPage.qml:50
+#, kde-format
+msgctxt "category in Places sidebar"
+msgid "Frequently Used"
+msgstr ""
+
+#~ msgid "All Applications"
+#~ msgstr "Сви програми"
+
+#~ msgid "Applications updated."
+#~ msgstr "Програми ажурирани."
+
+#~ msgid "Favorites"
+#~ msgstr "Омиљено"
+
+#~ msgid "Often Used"
+#~ msgstr "Често коришћено"
+
+#, fuzzy
+#~| msgid "Hidden Tabs"
+#~ msgid "Active Tabs"
+#~ msgstr "Скривени језичци"
+
+#~ msgctxt "@item:inmenu Reset icon to default"
+#~ msgid "Clear Icon"
+#~ msgstr "Очисти иконицу"
+
+#~ msgid "Switch tabs on hover"
+#~ msgstr "Пребацуј језичке при лебдењу"
+
+#~ msgid "Expand search to bookmarks, files and emails"
+#~ msgstr "Прошири претрагу на обележиваче, фајлове и е‑пошту"
+
+#~ msgid ""
+#~ "Drag tabs between the boxes to show/hide them, or reorder the visible "
+#~ "tabs by dragging."
+#~ msgstr ""
+#~ "Превлачите језичке између оквира да их прикажете или сакријете, или "
+#~ "мењајте редослед видљивих језичака."
+
+#~ msgid "%2@%3 (%1)"
+#~ msgstr "%2@%3 (%1)"
+
+#~ msgid "%1@%2"
+#~ msgstr "%1@%2"
+
+#, fuzzy
+#~| msgctxt "Type is a verb here, not a noun"
+#~| msgid "Type to search..."
+#~ msgid "Search..."
+#~ msgstr "Куцајте за претрагу..."

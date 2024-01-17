@@ -1,0 +1,615 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# A S Alam <aalam@users.sf.net>, 2014, 2015, 2018, 2020, 2021, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-26 02:00+0000\n"
+"PO-Revision-Date: 2022-11-19 06:16-0800\n"
+"Last-Translator: A S Alam <aalam@satluj.org>\n"
+"Language-Team: Punjabi <punjabi-users@lists.sf.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 22.08.2\n"
+
+#: contents/activitymanager/ActivityItem.qml:205
+msgid "Currently being used"
+msgstr "ਇਸ ਵੇਲੇ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+#: contents/activitymanager/ActivityItem.qml:245
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"ਇਸ ਸਰਗਰਮੀ\n"
+"ਵਿੱਚ ਭੇਜੋ"
+
+#: contents/activitymanager/ActivityItem.qml:275
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"ਇਸ ਸਰਗਰਮੀ\n"
+"ਵਿੱਚ ਵੀ ਵੇਖਾਓ"
+
+#: contents/activitymanager/ActivityItem.qml:337
+msgid "Configure"
+msgstr "ਸੰਰਚਨਾ"
+
+#: contents/activitymanager/ActivityItem.qml:356
+msgid "Stop activity"
+msgstr "ਸਰਗਰਮੀ ਰੋਕੋ"
+
+#: contents/activitymanager/ActivityList.qml:142
+msgid "Stopped activities:"
+msgstr "ਰੋਕੀਆਂ ਸਰਗਰਮੀਆਂ:"
+
+#: contents/activitymanager/ActivityManager.qml:120
+msgid "Create activity…"
+msgstr "…ਸਰਗਰਮੀ ਬਣਾਓ"
+
+#: contents/activitymanager/Heading.qml:59
+msgid "Activities"
+msgstr "ਸਰਗਰਮੀਆਂ"
+
+#: contents/activitymanager/StoppedActivityItem.qml:137
+msgid "Configure activity"
+msgstr "ਸਰਗਰਮੀ ਦੀ ਸੰਰਚਨਾ"
+
+#: contents/activitymanager/StoppedActivityItem.qml:154
+msgid "Delete"
+msgstr "ਹਟਾਓ"
+
+#: contents/applet/AppletError.qml:128
+msgid "Sorry! There was an error loading %1."
+msgstr "ਅਫਸੋਸ! %1 ਲੋਡ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਹੈ।"
+
+#: contents/applet/AppletError.qml:166
+msgid "Copy to Clipboard"
+msgstr "ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ"
+
+#: contents/applet/AppletError.qml:189
+msgid "View Error Details…"
+msgstr "…ਗਲਤੀ ਵੇਰਵੇ ਵੇਖੋ"
+
+#: contents/applet/CompactApplet.qml:74
+msgid "Open %1"
+msgstr "%1 ਖੋਲ੍ਹੋ"
+
+#: contents/configuration/AboutPlugin.qml:20
+#: contents/configuration/AppletConfiguration.qml:245
+msgid "About"
+msgstr "ਇਸ ਬਾਰੇ"
+
+#: contents/configuration/AboutPlugin.qml:48
+msgid "Send an email to %1"
+msgstr "%1 ਨੂੰ ਈਮੇਲ ਭੇਜੋ"
+
+#: contents/configuration/AboutPlugin.qml:62
+msgctxt "@info:tooltip %1 url"
+msgid "Open website %1"
+msgstr "%1 ਵੈੱਬਸਾਈਟ ਖੋਲ੍ਹੋ"
+
+#: contents/configuration/AboutPlugin.qml:130
+msgid "Copyright"
+msgstr "ਕਾਪੀਰਾਈਟ"
+
+#: contents/configuration/AboutPlugin.qml:148 contents/explorer/Tooltip.qml:92
+msgid "License:"
+msgstr "ਲਸੰਸ:"
+
+#: contents/configuration/AboutPlugin.qml:151
+msgctxt "@info:whatsthis"
+msgid "View license text"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:165
+msgid "Authors"
+msgstr "ਲੇਖਕ"
+
+#: contents/configuration/AboutPlugin.qml:176
+msgid "Credits"
+msgstr "ਮਾਣ"
+
+#: contents/configuration/AboutPlugin.qml:188
+msgid "Translators"
+msgstr "ਉਲੱਥਾਕਾਰ"
+
+#: contents/configuration/AboutPlugin.qml:205
+msgid "Report a Bug…"
+msgstr "…ਬੱਗ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ"
+
+#: contents/configuration/AppletConfiguration.qml:56
+msgid "Keyboard Shortcuts"
+msgstr "ਕੀਬੋਰਡ ਸ਼ਾਰਟਕਟ"
+
+#: contents/configuration/AppletConfiguration.qml:293
+msgid "Apply Settings"
+msgstr "ਸੈਟਿੰਗ ਲਾਗੂ ਕਰੋ"
+
+#: contents/configuration/AppletConfiguration.qml:294
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr "ਮੌਜੂਦਾ ਮੋਡੀਊਲ ਦੀ ਸੈਟਿੰਗ ਬਦਲੀ ਗਈ ਹੈ। ਕੀ ਤੁਸੀਂ ਬਦਲਾਅ ਲਾਗੂ ਕਰਨੇ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਅਣਡਿੱਠੇ?"
+
+#: contents/configuration/AppletConfiguration.qml:324
+msgid "OK"
+msgstr "ਠੀਕ ਹੈ"
+
+#: contents/configuration/AppletConfiguration.qml:332
+msgid "Apply"
+msgstr "ਲਾਗੂ ਕਰੋ"
+
+#: contents/configuration/AppletConfiguration.qml:338
+msgid "Cancel"
+msgstr "ਰੱਦ ਕਰੋ"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:27
+msgid "Open configuration page"
+msgstr "ਸੰਰਚਨਾ ਸਫ਼ਾ ਖੋਲ੍ਹੋ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Left-Button"
+msgstr "ਖੱਬਾ-ਬਟਨ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Right-Button"
+msgstr "ਸੱਜਾ-ਬਟਨ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Middle-Button"
+msgstr "ਮੱਧ-ਬਟਨ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:24
+msgid "Back-Button"
+msgstr "ਪਿੱਛੇ-ਬਟਨ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Forward-Button"
+msgstr "ਅੱਗੇ-ਬਟਨ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:27
+msgid "Vertical-Scroll"
+msgstr "ਖੜ੍ਹਵਾਂ-ਸਰਕਾਉਣਾ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Horizontal-Scroll"
+msgstr "ਲੇਟਵਾਂ-ਸਰਕਾਉਣਾ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:98
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:170
+#, fuzzy
+#| msgid "About"
+msgctxt "@title"
+msgid "About"
+msgstr "ਇਸ ਬਾਰੇ"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:185
+#: contents/configuration/MouseEventInputButton.qml:13
+msgid "Add Action"
+msgstr "ਕਾਰਵਾਈ ਜੋੜੋ"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:67
+msgid "Layout changes have been restricted by the system administrator"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:82
+msgid "Layout:"
+msgstr "ਲੇਆਉਟ:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:96
+msgid "Wallpaper type:"
+msgstr "ਵਾਲਪੇਪਰ ਕਿਸਮ:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:116
+msgid "Get New Plugins…"
+msgstr "…ਨਵੀਆਂ ਪਲੱਗਇਨਾਂ ਲਵੋ"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:184
+msgid "Layout changes must be applied before other changes can be made"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:188
+msgid "Apply Now"
+msgstr "ਹੁਣੇ ਲਾਗੂ ਕਰੋ"
+
+#: contents/configuration/ConfigurationShortcuts.qml:17
+msgid "Shortcuts"
+msgstr "ਸ਼ਾਰਟਕੱਟ"
+
+#: contents/configuration/ConfigurationShortcuts.qml:29
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr ""
+
+#: contents/configuration/ContainmentConfiguration.qml:29
+msgid "Wallpaper"
+msgstr "ਵਾਲਪੇਪਰ"
+
+#: contents/configuration/ContainmentConfiguration.qml:34
+msgid "Mouse Actions"
+msgstr "ਮਾਊਸ ਕਾਰਵਾਈਆਂ"
+
+#: contents/configuration/MouseEventInputButton.qml:20
+msgid "Input Here"
+msgstr "ਇੱਥੇ ਇਨਪੁਟ ਕਰੋ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:43
+#, fuzzy
+#| msgid "Apply Settings"
+msgid "Panel Settings"
+msgstr "ਸੈਟਿੰਗ ਲਾਗੂ ਕਰੋ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:49
+#, fuzzy
+#| msgid "Maximize Panel"
+msgctxt "@action:button Make the panel as big as it can be"
+msgid "Maximize"
+msgstr "ਪੈਨਲ ਵੱਧ ਤੋਂ ਵੱਧ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Make this panel as tall as possible"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:54
+msgid "Make this panel as wide as possible"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@action:button Delete the panel"
+msgid "Delete"
+msgstr "ਹਟਾਓ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:65
+msgid "Remove this panel; this action is undo-able"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:89
+#, fuzzy
+#| msgid "Panel Alignment"
+msgid "Alignment:"
+msgstr "ਪੈਨਲ ਸਫ਼ਬੰਦੀ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Top"
+msgstr "ਉੱਤੇ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Left"
+msgstr "ਖੱਬੇ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the top; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the left; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:104
+msgid "Center"
+msgstr "ਕੇਂਦਰ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:105
+msgid ""
+"Aligns a non-maximized panel to the center; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Bottom"
+msgstr "ਹੇਠਾਂ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Right"
+msgstr "ਸੱਜੇ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the bottom; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the right; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+#, fuzzy
+#| msgid "Visibility"
+msgid "Visibility:"
+msgstr "ਦਿੱਖ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:147
+msgid "Always Visible"
+msgstr "ਹਮੇਸ਼ਾ ਦਿਖਾਉ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:155
+#, fuzzy
+#| msgid "Auto Hide"
+msgid "Auto-Hide"
+msgstr "ਆਪੇ ਓਹਲੇ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:156
+msgid ""
+"Panel is hidden, but reveals itself when the cursor touches the panel's "
+"screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:183
+#, fuzzy
+#| msgid "Opacity"
+msgid "Opacity:"
+msgstr "ਪਾਰਦਰਸ਼ਤਾ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:188
+#, fuzzy
+#| msgid "Opaque"
+msgid "Always Opaque"
+msgstr "ਬਲੌਰੀਪਨ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:196
+msgid "Adaptive"
+msgstr "ਅਡੈਪਟਿਵ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:197
+msgid ""
+"Panel is opaque when any windows are touching it, and translucent at other "
+"times"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:206
+#, fuzzy
+#| msgid "Translucent"
+msgid "Always Translucent"
+msgstr "ਬਲੌਰੀ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:233
+msgid "Floating:"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:238
+msgid "Floating"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:239
+msgid "Panel visibly floats away from its screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:248
+msgid "Attached"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:249
+msgid "Panel is attached to its screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:271
+#, fuzzy
+#| msgid "Shortcut"
+msgid "Focus Shortcut:"
+msgstr "ਸ਼ਾਰਟਕੱਟ"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:281
+msgid "Press this keyboard shortcut to move focus to the Panel"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum height."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum width."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Double click to reset."
+msgstr "ਮੁੜ-ਸੈਟ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਕਲਿੱਕ ਕਰੋ।"
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum height."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum width."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:65
+msgid ""
+"Drag to change position on this screen edge.\n"
+"Double click to reset."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:26
+msgid "Add Widgets…"
+msgstr "…ਵਿਜੈਟ ਜੋੜੋ"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:27
+msgid "Add Spacer"
+msgstr "ਸਪੇਸਰ ਜੋੜੋ"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:28
+msgid "More Options…"
+msgstr "…ਹੋਰ ਚੋਣਾਂ"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:226
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Drag to move"
+msgstr "ਹਿਲਾਉਣ ਲਈ ਖਿੱਚੋ"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:265
+msgctxt "@info:tooltip"
+msgid "Use arrow keys to move the panel"
+msgstr "ਪੈਨਲ ਹਿਲਾਉਣ ਲਈ ਤੀਰ ਦੇ ਨਿਸ਼ਾਨਾਂ ਨੂੰ ਵਰਤੋ"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel width:"
+msgstr "ਪੈਨਲ ਦੀ ਚੌੜਾਈ:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel height:"
+msgstr "ਪੈਨਲ ਦੀ ਉਚਾਈ:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:406
+#: contents/configuration/ShellContainmentConfiguration.qml:43
+msgid "Close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+#: contents/configuration/ShellContainmentConfiguration.qml:19
+msgid "Panels and Desktops Management"
+msgstr "ਪੈਨਲ ਅਤੇ ਡੈਸਕਟਾਪ ਇੰਤਜ਼ਾਮ"
+
+#: contents/configuration/ShellContainmentConfiguration.qml:34
+msgid ""
+"You can drag Panels and Desktops around to move them to different screens."
+msgstr ""
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:178
+msgid "Swap with Desktop on Screen %1"
+msgstr "%1 ਸਕਰੀਨ ਉੱਤੇ ਡੈਸਕਟਾਪ ਨਾਲ ਬਦਲੋ"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:179
+msgid "Move to Screen %1"
+msgstr "ਸਕਰੀਨ %1 ਉੱਤੇ ਭੇਜੋ"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:193
+#, fuzzy
+#| msgid "Remove Panel"
+msgid "Remove Desktop"
+msgstr "ਪੈਨਲ ਹਟਾਓ"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:194
+msgid "Remove Panel"
+msgstr "ਪੈਨਲ ਹਟਾਓ"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:267
+msgid "%1 (primary)"
+msgstr "%1 (ਪ੍ਰਾਈਮਰੀ)"
+
+#: contents/explorer/AppletAlternatives.qml:64
+msgid "Alternative Widgets"
+msgstr "ਬਦਲਵੇਂ ਵਿਜੈੱਟ"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Undo uninstall"
+msgstr "ਅਣ-ਇੰਸਟਾਲ ਨੂੰ ਵਾਪਸ ਲਵੋ"
+
+#: contents/explorer/AppletDelegate.qml:168
+msgid "Uninstall widget"
+msgstr "ਵਿਜੈਟ ਅਣ-ਇੰਸਟਾਲ"
+
+#: contents/explorer/Tooltip.qml:101
+msgid "Author:"
+msgstr "ਲੇਖਕ:"
+
+#: contents/explorer/Tooltip.qml:109
+msgid "Email:"
+msgstr "ਈ-ਮੇਲ:"
+
+#: contents/explorer/Tooltip.qml:128
+msgid "Uninstall"
+msgstr "ਅਣ-ਇੰਸਟਾਲ"
+
+#: contents/explorer/WidgetExplorer.qml:118
+#: contents/explorer/WidgetExplorer.qml:192
+msgid "All Widgets"
+msgstr "ਸਾਰੇ ਵਿਜੈਟ"
+
+#: contents/explorer/WidgetExplorer.qml:144
+msgid "Widgets"
+msgstr "ਵਿਦਜੈਟ"
+
+#: contents/explorer/WidgetExplorer.qml:152
+msgid "Get New Widgets…"
+msgstr "…ਨਵੇਂ ਵਿਜੈਟ ਲਵੋ"
+
+#: contents/explorer/WidgetExplorer.qml:203
+msgid "Categories"
+msgstr "ਕੈਟਾਗਰੀਆਂ"
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets matched the search terms"
+msgstr ""
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets available"
+msgstr "ਕੋਈ ਵਿਜੈਟ ਮੌਜੂਦ ਨਹੀਂ ਹੈ"
+
+#~ msgid "Switch"
+#~ msgstr "ਬਦਲੋ"
+
+#, fuzzy
+#~| msgid "Windows Go Below"
+#~ msgid "Windows Above"
+#~ msgstr "ਵਿੰਡੋ ਹੇਠਾਂ ਜਾ ਸਕਦੀਆਂ ਹਨ"
+
+#, fuzzy
+#~| msgid "Windows Go Below"
+#~ msgid "Windows Below"
+#~ msgstr "ਵਿੰਡੋ ਹੇਠਾਂ ਜਾ ਸਕਦੀਆਂ ਹਨ"
+
+#, fuzzy
+#~| msgid "Windows Can Cover"
+#~ msgid "Windows In Front"
+#~ msgstr "ਵਿੰਡੋ ਢੱਕ ਸਕਦੀਆਂ ਹਨ"
+
+#~ msgid "%1 (disabled)"
+#~ msgstr "%1 (ਅਸਮਰੱਥ ਹੈ)"
+
+#~ msgid "Appearance"
+#~ msgstr "ਦਿੱਖ"
+
+#~ msgid "Search…"
+#~ msgstr "…ਖੋਜੋ"
+
+#~ msgid "Screen Edge"
+#~ msgstr "ਸਕਰੀਨ ਕੋਨਾ"
+
+#~ msgid "Width"
+#~ msgstr "ਚੌੜਾਈ"
+
+#~ msgid "Height"
+#~ msgstr "ਉਚਾਈ"
+
+#~ msgid "Lock Widgets"
+#~ msgstr "ਵਿਦਜੈੱਟ ਲਾਕ ਕਰੋ"
+
+#~ msgid "Activity name:"
+#~ msgstr "ਸਰਗਰਮੀ ਨਾਂ:"
+
+#~ msgid "Create"
+#~ msgstr "ਬਣਾਓ"
+
+#, fuzzy
+#~| msgid "Are you sure you want to delete the activity?"
+#~ msgid "Are you sure you want to delete this activity?"
+#~ msgstr "ਕੀ ਤੁਸੀਂ ਇਹ ਸਰਗਰਮੀ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"

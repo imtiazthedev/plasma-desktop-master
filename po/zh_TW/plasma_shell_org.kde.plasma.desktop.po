@@ -1,0 +1,632 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Franklin Weng <franklin at goodhorse dot idv dot tw>, 2013, 2014, 2015.
+# Jeff Huang <s8321414@gmail.com>, 2016, 2017.
+# pan93412 <pan93412@gmail.com>, 2018, 2019, 2020.
+# Kisaragi Hiu <mail@kisaragi-hiu.com>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-26 02:00+0000\n"
+"PO-Revision-Date: 2023-08-08 00:29+0900\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 23.04.3\n"
+
+#: contents/activitymanager/ActivityItem.qml:205
+msgid "Currently being used"
+msgstr "目前使用中的"
+
+#: contents/activitymanager/ActivityItem.qml:245
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"移至\n"
+"此活動"
+
+#: contents/activitymanager/ActivityItem.qml:275
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"也在\n"
+"此活動顯示"
+
+#: contents/activitymanager/ActivityItem.qml:337
+msgid "Configure"
+msgstr "設定"
+
+#: contents/activitymanager/ActivityItem.qml:356
+msgid "Stop activity"
+msgstr "停止活動"
+
+#: contents/activitymanager/ActivityList.qml:142
+msgid "Stopped activities:"
+msgstr "已停止的活動："
+
+#: contents/activitymanager/ActivityManager.qml:120
+msgid "Create activity…"
+msgstr "建立活動…"
+
+#: contents/activitymanager/Heading.qml:59
+msgid "Activities"
+msgstr "活動"
+
+#: contents/activitymanager/StoppedActivityItem.qml:137
+msgid "Configure activity"
+msgstr "設定活動"
+
+#: contents/activitymanager/StoppedActivityItem.qml:154
+msgid "Delete"
+msgstr "刪除"
+
+#: contents/applet/AppletError.qml:128
+msgid "Sorry! There was an error loading %1."
+msgstr "很抱歉！載入 %1 時發生錯誤。"
+
+#: contents/applet/AppletError.qml:166
+msgid "Copy to Clipboard"
+msgstr "複製到剪貼簿"
+
+#: contents/applet/AppletError.qml:189
+msgid "View Error Details…"
+msgstr "檢視錯誤詳細資訊…"
+
+#: contents/applet/CompactApplet.qml:74
+msgid "Open %1"
+msgstr "開啟 %1"
+
+#: contents/configuration/AboutPlugin.qml:20
+#: contents/configuration/AppletConfiguration.qml:245
+msgid "About"
+msgstr "關於"
+
+#: contents/configuration/AboutPlugin.qml:48
+msgid "Send an email to %1"
+msgstr "傳送電子郵件給 %1"
+
+#: contents/configuration/AboutPlugin.qml:62
+msgctxt "@info:tooltip %1 url"
+msgid "Open website %1"
+msgstr "開啟網站 %1"
+
+#: contents/configuration/AboutPlugin.qml:130
+msgid "Copyright"
+msgstr "版權"
+
+#: contents/configuration/AboutPlugin.qml:148 contents/explorer/Tooltip.qml:92
+msgid "License:"
+msgstr "授權條款："
+
+#: contents/configuration/AboutPlugin.qml:151
+msgctxt "@info:whatsthis"
+msgid "View license text"
+msgstr "檢視授權文字"
+
+#: contents/configuration/AboutPlugin.qml:165
+msgid "Authors"
+msgstr "作者群"
+
+#: contents/configuration/AboutPlugin.qml:176
+msgid "Credits"
+msgstr "致謝"
+
+#: contents/configuration/AboutPlugin.qml:188
+msgid "Translators"
+msgstr "翻譯者"
+
+#: contents/configuration/AboutPlugin.qml:205
+msgid "Report a Bug…"
+msgstr "回報問題…"
+
+#: contents/configuration/AppletConfiguration.qml:56
+msgid "Keyboard Shortcuts"
+msgstr "鍵盤快捷鍵"
+
+#: contents/configuration/AppletConfiguration.qml:293
+msgid "Apply Settings"
+msgstr "套用設定"
+
+#: contents/configuration/AppletConfiguration.qml:294
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr "目前模組已被變更。您要套用還是要丟棄這些變更？"
+
+#: contents/configuration/AppletConfiguration.qml:324
+msgid "OK"
+msgstr "確定"
+
+#: contents/configuration/AppletConfiguration.qml:332
+msgid "Apply"
+msgstr "套用"
+
+#: contents/configuration/AppletConfiguration.qml:338
+msgid "Cancel"
+msgstr "取消"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:27
+msgid "Open configuration page"
+msgstr "開啟設定頁面"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Left-Button"
+msgstr "滑鼠左鍵"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Right-Button"
+msgstr "滑鼠右鍵"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Middle-Button"
+msgstr "滑鼠中鍵"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:24
+msgid "Back-Button"
+msgstr "向後鍵"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Forward-Button"
+msgstr "向前鈕"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:27
+msgid "Vertical-Scroll"
+msgstr "垂直捲軸"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Horizontal-Scroll"
+msgstr "水平捲軸"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:98
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:170
+msgctxt "@title"
+msgid "About"
+msgstr "關於"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:185
+#: contents/configuration/MouseEventInputButton.qml:13
+msgid "Add Action"
+msgstr "新增動作"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:67
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "佈局變更已被系統管理員限制"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:82
+msgid "Layout:"
+msgstr "佈局："
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:96
+msgid "Wallpaper type:"
+msgstr "桌布類型："
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:116
+msgid "Get New Plugins…"
+msgstr "取得新的外掛程式…"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:184
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "佈局的變動必須在其他變動做出前套用"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:188
+msgid "Apply Now"
+msgstr "立刻套用"
+
+#: contents/configuration/ConfigurationShortcuts.qml:17
+msgid "Shortcuts"
+msgstr "鍵盤快捷鍵"
+
+#: contents/configuration/ConfigurationShortcuts.qml:29
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "此快捷鍵將會如按下般啟用此元件。"
+
+#: contents/configuration/ContainmentConfiguration.qml:29
+msgid "Wallpaper"
+msgstr "桌布"
+
+#: contents/configuration/ContainmentConfiguration.qml:34
+msgid "Mouse Actions"
+msgstr "滑鼠動作"
+
+#: contents/configuration/MouseEventInputButton.qml:20
+msgid "Input Here"
+msgstr "在此輸入"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:43
+msgid "Panel Settings"
+msgstr "面板設定"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:49
+msgctxt "@action:button Make the panel as big as it can be"
+msgid "Maximize"
+msgstr "最大化"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Make this panel as tall as possible"
+msgstr "讓此面板高度最大化"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:54
+msgid "Make this panel as wide as possible"
+msgstr "讓此面板寬度最大化"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+msgctxt "@action:button Delete the panel"
+msgid "Delete"
+msgstr "刪除"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:65
+msgid "Remove this panel; this action is undo-able"
+msgstr "移除這個面板；這個動作是可以復原的"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:89
+msgid "Alignment:"
+msgstr "對齊："
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Top"
+msgstr "上"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Left"
+msgstr "靠左"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the top; no effect when panel is maximized"
+msgstr "將未最大化的面板對齊到上方；面板已最大化時沒有效果"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the left; no effect when panel is maximized"
+msgstr "將未最大化的面板靠左對齊；面板已最大化時沒有效果"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:104
+msgid "Center"
+msgstr "置中"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:105
+msgid ""
+"Aligns a non-maximized panel to the center; no effect when panel is maximized"
+msgstr "將未最大化的面板置中對齊；面板已最大化時沒有效果"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Bottom"
+msgstr "下"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Right"
+msgstr "靠右"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the bottom; no effect when panel is maximized"
+msgstr "將未最大化的面板對齊到下方；面板已最大化時沒有效果"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the right; no effect when panel is maximized"
+msgstr "將未最大化的面板靠右對齊；面板已最大化時沒有效果"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+msgid "Visibility:"
+msgstr "可見度："
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:147
+msgid "Always Visible"
+msgstr "永遠可見"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:155
+msgid "Auto-Hide"
+msgstr "自動隱藏"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:156
+msgid ""
+"Panel is hidden, but reveals itself when the cursor touches the panel's "
+"screen edge"
+msgstr "面板是隱藏的，但游標碰到面板所在的螢幕邊緣時會顯示"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:183
+msgid "Opacity:"
+msgstr "透明度："
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:188
+msgid "Always Opaque"
+msgstr "總是不透明"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:196
+msgid "Adaptive"
+msgstr "自動調整"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:197
+msgid ""
+"Panel is opaque when any windows are touching it, and translucent at other "
+"times"
+msgstr "面板在有視窗碰到它時是不透明的，其他時候則是半透明的"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:206
+msgid "Always Translucent"
+msgstr "總是半透明"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:233
+msgid "Floating:"
+msgstr "浮動："
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:238
+msgid "Floating"
+msgstr "浮動"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:239
+msgid "Panel visibly floats away from its screen edge"
+msgstr "面板看起來漂浮在所屬的螢幕邊緣旁"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:248
+msgid "Attached"
+msgstr "接附"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:249
+msgid "Panel is attached to its screen edge"
+msgstr "面板貼附在所屬的螢幕邊緣上"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:271
+msgid "Focus Shortcut:"
+msgstr "取得焦點快捷鍵："
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:281
+msgid "Press this keyboard shortcut to move focus to the Panel"
+msgstr "按這個鍵盤快捷鍵來移動焦點到面板上"
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum height."
+msgstr "拖曳來變更最大高度。"
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum width."
+msgstr "拖曳來變更最大寬度。"
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Double click to reset."
+msgstr "雙擊來重設。"
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum height."
+msgstr "拖曳來變更最小高度。"
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum width."
+msgstr "拖曳來變更最小寬度。"
+
+#: contents/configuration/panelconfiguration/Ruler.qml:65
+msgid ""
+"Drag to change position on this screen edge.\n"
+"Double click to reset."
+msgstr ""
+"拖曳來變更在這個螢幕邊緣上的位置。\n"
+"雙擊來重設。"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:26
+msgid "Add Widgets…"
+msgstr "新增元件..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:27
+msgid "Add Spacer"
+msgstr "新增空白"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:28
+msgid "More Options…"
+msgstr "更多選項…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:226
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Drag to move"
+msgstr "拖曳來移動"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:265
+msgctxt "@info:tooltip"
+msgid "Use arrow keys to move the panel"
+msgstr "用方向鍵來移動面板"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel width:"
+msgstr "面板寬度："
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel height:"
+msgstr "面板高度："
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:406
+#: contents/configuration/ShellContainmentConfiguration.qml:43
+msgid "Close"
+msgstr "關閉"
+
+#: contents/configuration/ShellContainmentConfiguration.qml:19
+msgid "Panels and Desktops Management"
+msgstr "面板與桌面管理"
+
+#: contents/configuration/ShellContainmentConfiguration.qml:34
+msgid ""
+"You can drag Panels and Desktops around to move them to different screens."
+msgstr "您可以拖曳面板與桌面來將它們移動到不同的螢幕。"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:178
+msgid "Swap with Desktop on Screen %1"
+msgstr "與螢幕 %1 上的桌面交換"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:179
+msgid "Move to Screen %1"
+msgstr "移動到螢幕 %1"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:193
+msgid "Remove Desktop"
+msgstr "移除桌面"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:194
+msgid "Remove Panel"
+msgstr "移除面板"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:267
+msgid "%1 (primary)"
+msgstr "%1（主要）"
+
+#: contents/explorer/AppletAlternatives.qml:64
+msgid "Alternative Widgets"
+msgstr "替代元件"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Undo uninstall"
+msgstr "復原解除安裝"
+
+#: contents/explorer/AppletDelegate.qml:168
+msgid "Uninstall widget"
+msgstr "解除安裝元件"
+
+#: contents/explorer/Tooltip.qml:101
+msgid "Author:"
+msgstr "作者："
+
+#: contents/explorer/Tooltip.qml:109
+msgid "Email:"
+msgstr "電子郵件："
+
+#: contents/explorer/Tooltip.qml:128
+msgid "Uninstall"
+msgstr "解除安裝"
+
+#: contents/explorer/WidgetExplorer.qml:118
+#: contents/explorer/WidgetExplorer.qml:192
+msgid "All Widgets"
+msgstr "所有元件"
+
+#: contents/explorer/WidgetExplorer.qml:144
+msgid "Widgets"
+msgstr "元件"
+
+#: contents/explorer/WidgetExplorer.qml:152
+msgid "Get New Widgets…"
+msgstr "取得新元件…"
+
+#: contents/explorer/WidgetExplorer.qml:203
+msgid "Categories"
+msgstr "類別"
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets matched the search terms"
+msgstr "沒有元件符合搜尋字詞"
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets available"
+msgstr "沒有可用元件"
+
+#~ msgid "Switch"
+#~ msgstr "切換"
+
+#, fuzzy
+#~| msgid "Windows Behind"
+#~ msgid "Windows Above"
+#~ msgstr "視窗在後方"
+
+#, fuzzy
+#~| msgid "Windows Behind"
+#~ msgid "Windows Below"
+#~ msgstr "視窗在後方"
+
+#, fuzzy
+#~| msgid ""
+#~| "Makes the panel remain visible always but part of the maximized windows "
+#~| "shall go below the panel as though the panel did not exist."
+#~ msgid ""
+#~ "Like \"Always Visible\", but maximized and tiled windows go under the "
+#~ "panel as though it didn't exist"
+#~ msgstr ""
+#~ "讓面板維持可見，但讓最大化視窗的一部分出現在它的後方，如同面板不存在一樣。"
+
+#~ msgid "Windows In Front"
+#~ msgstr "視窗在前方"
+
+#~ msgid "Aligns the panel"
+#~ msgstr "對齊面板"
+
+#~ msgid "Center aligns the panel if the panel is not maximized."
+#~ msgstr "讓面板未最大化時置中對齊。"
+
+#~ msgid ""
+#~ "Makes the panel hidden always but reveals it when mouse enters the area "
+#~ "where the panel would have been if it were not hidden."
+#~ msgstr "讓面板總是隱藏，但在滑鼠進入它原先會在的區域時顯示它。"
+
+#~ msgid ""
+#~ "Makes the panel remain visible always but maximized windows shall cover "
+#~ "it. It is revealed when mouse enters the area where the panel would have "
+#~ "been if it were not covered."
+#~ msgstr ""
+#~ "讓面板維持可見，但讓最大化視窗覆蓋它。面板被覆蓋時，若滑鼠進入它原先會在的"
+#~ "區域時會顯示它。"
+
+#~ msgid "Makes the panel translucent except when some windows touch it."
+#~ msgstr "讓面板維持半透明，除非有視窗碰到它。"
+
+#~ msgid "Makes the panel translucent always."
+#~ msgstr "讓面板總是半透明。"
+
+#~ msgid "Makes the panel float from the edge of the screen."
+#~ msgstr "讓面板與螢幕邊緣維持一個距離，如同浮動一般。"
+
+#~ msgid "Makes the panel remain attached to the edge of the screen."
+#~ msgstr "讓面板接附在螢幕邊緣。"
+
+#~ msgid "%1 (disabled)"
+#~ msgstr "%1（已停用）"
+
+#, fuzzy
+#~| msgid "Search..."
+#~ msgid "Search…"
+#~ msgstr "搜尋..."
+
+#~ msgid "Screen Edge"
+#~ msgstr "螢幕邊緣"
+
+#~ msgid "Click and drag the button to a screen edge to move the panel there."
+#~ msgstr "把按鈕長按拖曳到一螢幕邊緣，以移動面板至該位置。"
+
+#~ msgid "Width"
+#~ msgstr "寬度"
+
+#~ msgid "Height"
+#~ msgstr "高度"
+
+#~ msgid "Click and drag the button to resize the panel."
+#~ msgstr "長按拖曳按鈕來縮放面板。"
+
+#~ msgid "Layout cannot be changed while widgets are locked"
+#~ msgstr "元件被鎖定時不能變更佈局"
+
+#~ msgid "Lock Widgets"
+#~ msgstr "鎖定元件"

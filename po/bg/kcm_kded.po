@@ -1,0 +1,125 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Zlatko Popov <zlatkopopov@fsa-bg.org>, 2006, 2007, 2008.
+# Yasen Pramatarov <yasen@lindeas.com>, 2010.
+# Mincho Kondarev <mkondarev@yahoo.de>, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkded\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-06-29 02:07+0000\n"
+"PO-Revision-Date: 2023-06-29 16:04+0200\n"
+"Last-Translator: Mincho Kondarev <mkondarev@yahoo.de>\n"
+"Language-Team: Bulgarian <kde-i18n-doc@kde.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 23.04.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: kcmkded.cpp:115
+#, kde-format
+msgid "Failed to stop service: %1"
+msgstr "Спирането на услугата е неуспешно: %1"
+
+#: kcmkded.cpp:117
+#, kde-format
+msgid "Failed to start service: %1"
+msgstr "Стартирането на услугата е неуспешно: %1"
+
+#: kcmkded.cpp:124
+#, kde-format
+msgid "Failed to stop service."
+msgstr "Спирането на услугата е неуспешно."
+
+#: kcmkded.cpp:126
+#, kde-format
+msgid "Failed to start service."
+msgstr "Стартирането на услугата е неуспешно."
+
+#: kcmkded.cpp:224
+#, kde-format
+msgid "Failed to notify KDE Service Manager (kded6) of saved changed: %1"
+msgstr ""
+"Неуспешно уведомяване на KDE Service Manager (kded6) за запазена промяна: %1"
+
+#: ui/main.qml:36
+#, kde-format
+msgid ""
+"The background services manager (kded6) is currently not running. Make sure "
+"it is installed correctly."
+msgstr ""
+"Понастоящем мениджърът на услуги в заден план  (kded6) не работи. Уверете "
+"се, че той е инсталиран правилно."
+
+#: ui/main.qml:45
+#, kde-format
+msgid ""
+"Some services disable themselves again when manually started if they are not "
+"useful in the current environment."
+msgstr ""
+"Някои услуги се деактивират сами след ръчно стартиране, ако не са необходими "
+"в настоящата среда."
+
+#: ui/main.qml:54
+#, kde-format
+msgid ""
+"Some services were automatically started/stopped when the background "
+"services manager (kded6) was restarted to apply your changes."
+msgstr ""
+"Някои услуги автоматично бяха стартирани/спрени, когато мениджърът на услуги "
+"в заден план (kded6) се рестартира, за да бъдат приложени вашите промени."
+
+#: ui/main.qml:96
+#, kde-format
+msgid "All Services"
+msgstr "Всички услуги"
+
+#: ui/main.qml:97
+#, kde-format
+msgctxt "List running services"
+msgid "Running"
+msgstr "Стартирана"
+
+#: ui/main.qml:98
+#, kde-format
+msgctxt "List not running services"
+msgid "Not Running"
+msgstr "Спряна"
+
+#: ui/main.qml:134
+#, kde-format
+msgid "Startup Services"
+msgstr "Услуги при начален старт"
+
+#: ui/main.qml:135
+#, kde-format
+msgid "Load-on-Demand Services"
+msgstr "Услуги, зареждани при поискване"
+
+#: ui/main.qml:152
+#, kde-format
+msgid "Toggle automatically loading this service on startup"
+msgstr "Превключване на автоматичното зареждане на тази услуга при стартиране"
+
+#: ui/main.qml:219
+#, kde-format
+msgid "Not running"
+msgstr "Спряна"
+
+#: ui/main.qml:220
+#, kde-format
+msgid "Running"
+msgstr "Стартирана"
+
+#: ui/main.qml:238
+#, kde-format
+msgid "Stop Service"
+msgstr "Спиране на услуга"
+
+#: ui/main.qml:238
+#, kde-format
+msgid "Start Service"
+msgstr "Стартиране на услуга"

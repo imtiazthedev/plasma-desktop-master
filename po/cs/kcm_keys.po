@@ -1,0 +1,327 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+# Vit Pelcak <vit@pelcak.org>, 2020, 2021, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-02 02:09+0000\n"
+"PO-Revision-Date: 2023-01-27 15:35+0100\n"
+"Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: globalaccelmodel.cpp:202
+#, kde-format
+msgctxt ""
+"%1 is the name of the component, %2 is the action for which saving failed"
+msgid "Error while saving shortcut %1: %2"
+msgstr "Při ukládání klávesové zkratky %1 došlo k chybě: %2"
+
+#: globalaccelmodel.cpp:314
+#, kde-format
+msgctxt "%1 is the name of an application"
+msgid "Error while adding %1, it seems it has no actions."
+msgstr "Chyba při přidávání %1. Zdá se, že nemá žádné činnosti."
+
+#: globalaccelmodel.cpp:357
+#, kde-format
+msgid "Error while communicating with the global shortcuts service"
+msgstr "Při komunikaci s globální službou klávesových zkratek došlo k chybě"
+
+#: kcm_keys.cpp:57
+#, kde-format
+msgid "Failed to communicate with global shortcuts daemon"
+msgstr "Komunikace s globálním démon klávesových zkratek se nezdařila"
+
+#: kcm_keys.cpp:312
+#, kde-format
+msgctxt "%2 is the name of a category inside the 'Common Actions' section"
+msgid ""
+"Shortcut %1 is already assigned to the common %2 action '%3'.\n"
+"Do you want to reassign it?"
+msgstr ""
+"Zkratka %1 je již přiřazena společné %2 činnosti '%3'.\n"
+"Chcete ji přeřadit?"
+
+#: kcm_keys.cpp:316
+#, kde-format
+msgid ""
+"Shortcut %1 is already assigned to action '%2' of %3.\n"
+"Do you want to reassign it?"
+msgstr ""
+"Zkratka %1 je již přiřazena činnosti '%2' of %3.\n"
+"Chcete ji přeřadit?"
+
+#: kcm_keys.cpp:317
+#, kde-format
+msgctxt "@title:window"
+msgid "Found conflict"
+msgstr "Nalezen konflikt"
+
+#: standardshortcutsmodel.cpp:34
+#, kde-format
+msgid "File"
+msgstr "Soubor"
+
+#: standardshortcutsmodel.cpp:35
+#, kde-format
+msgid "Edit"
+msgstr "Upravit"
+
+#: standardshortcutsmodel.cpp:37
+#, kde-format
+msgid "Navigation"
+msgstr "Navigace"
+
+#: standardshortcutsmodel.cpp:38
+#, kde-format
+msgid "View"
+msgstr "Pohled"
+
+#: standardshortcutsmodel.cpp:39
+#, kde-format
+msgid "Settings"
+msgstr "Nastavení"
+
+#: standardshortcutsmodel.cpp:40
+#, kde-format
+msgid "Help"
+msgstr "Nápověda"
+
+#: ui/main.qml:27
+#, kde-format
+msgid "Applications"
+msgstr "Aplikace"
+
+#: ui/main.qml:27
+#, kde-format
+msgid "Commands"
+msgstr "Příkazy"
+
+#: ui/main.qml:27
+#, kde-format
+msgid "System Settings"
+msgstr "Nastavení systému"
+
+#: ui/main.qml:27
+#, kde-format
+msgid "Common Actions"
+msgstr "Obvyklé činnosti"
+
+#: ui/main.qml:51
+#, kde-format
+msgid "Cannot export scheme while there are unsaved changes"
+msgstr "Schéma nelze exportovat dokud existují neuložené změny"
+
+#: ui/main.qml:63
+#, kde-format
+msgid ""
+"Select the components below that should be included in the exported scheme"
+msgstr ""
+"Níže vyberte komponenty, které chcete zahrnout do exportovaného schématu"
+
+#: ui/main.qml:69
+#, kde-format
+msgid "Save scheme"
+msgstr "Uložit schéma"
+
+#: ui/main.qml:169
+#, kde-format
+msgctxt "@tooltip:button %1 is the text of a custom command"
+msgid "Edit command for %1"
+msgstr "Upravit příkaz pro %1"
+
+#: ui/main.qml:185
+#, kde-format
+msgid "Remove all shortcuts for %1"
+msgstr "Odstranit všechny klávesové zkratky pro %1"
+
+#: ui/main.qml:196
+#, kde-format
+msgid "Undo deletion"
+msgstr "Vrátit zpět smazání"
+
+#: ui/main.qml:247
+#, kde-format
+msgid "No items matched the search terms"
+msgstr "Vyhledávacím kritériím neodpovídá žádná položka"
+
+#: ui/main.qml:280
+#, kde-format
+msgid "Select an item from the list to view its shortcuts here"
+msgstr "Výběrem položky v seznamu zobrazíte s ní spojené klávesové zkratky"
+
+#: ui/main.qml:305
+#, kde-format
+msgctxt "@action:button Keep translated text as short as possible"
+msgid "Add Application…"
+msgstr "Přidat aplikaci…"
+
+#: ui/main.qml:315
+#, kde-format
+msgctxt "@action:button Keep translated text as short as possible"
+msgid "Add Command…"
+msgstr "Přidat příkaz…"
+
+#: ui/main.qml:334
+#, kde-format
+msgid "Import Scheme…"
+msgstr "Importovat schéma…"
+
+#: ui/main.qml:339
+#, kde-format
+msgid "Cancel Export"
+msgstr "Zrušit export"
+
+#: ui/main.qml:339
+#, kde-format
+msgid "Export Scheme…"
+msgstr "Exportovat schéma…"
+
+#: ui/main.qml:359
+#, kde-format
+msgid "Export Shortcut Scheme"
+msgstr "Exportovat schéma klávesových zkratek"
+
+#: ui/main.qml:359 ui/main.qml:475
+#, kde-format
+msgid "Import Shortcut Scheme"
+msgstr "Importovat schéma klávesových zkratek"
+
+#: ui/main.qml:361
+#, kde-format
+msgctxt "Template for file dialog"
+msgid "Shortcut Scheme (*.kksrc)"
+msgstr "Schéma klávesových zkratek (*.kksrc)"
+
+#: ui/main.qml:389
+#, kde-format
+msgid "Edit Command"
+msgstr "Příkaz pro úpravu"
+
+#: ui/main.qml:389
+#, kde-format
+msgid "Add Command"
+msgstr "Přidat příkaz"
+
+#: ui/main.qml:407
+#, kde-format
+msgid "Save"
+msgstr "Uložit"
+
+#: ui/main.qml:407
+#, kde-format
+msgid "Add"
+msgstr "Přidat"
+
+#: ui/main.qml:432
+#, kde-format
+msgid "Enter a command or choose a script file:"
+msgstr "Zadejte příkaz nebo vyberte soubor skriptu:"
+
+#: ui/main.qml:446
+#, kde-format
+msgctxt "@action:button"
+msgid "Choose…"
+msgstr "Vybrat…"
+
+#: ui/main.qml:459
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Script File"
+msgstr "Vyberte soubor skriptu"
+
+#: ui/main.qml:461
+#, kde-format
+msgctxt "Template for file dialog"
+msgid "Script file (*.*sh)"
+msgstr "Soubor skriptu (*.*sh)"
+
+#: ui/main.qml:482
+#, kde-format
+msgid "Select the scheme to import:"
+msgstr "Vyberte schéma k importu:"
+
+#: ui/main.qml:496
+#, kde-format
+msgid "Custom Scheme"
+msgstr "Vlastní schéma"
+
+#: ui/main.qml:501
+#, kde-format
+msgid "Select File…"
+msgstr "Vybrat soubor…"
+
+#: ui/main.qml:501
+#, kde-format
+msgid "Import"
+msgstr "Importovat"
+
+#: ui/ShortcutActionDelegate.qml:30
+#, kde-format
+msgid "Editing shortcut: %1"
+msgstr "Upravujete zkratku: %1"
+
+#: ui/ShortcutActionDelegate.qml:42
+#, kde-format
+msgctxt ""
+"%1 is the name action that is triggered by the key sequences following "
+"after :"
+msgid "%1:"
+msgstr "%1:"
+
+#: ui/ShortcutActionDelegate.qml:55
+#, kde-format
+msgid "No active shortcuts"
+msgstr "Žádné aktivní klávesové zkratky"
+
+#: ui/ShortcutActionDelegate.qml:95
+#, kde-format
+msgctxt "%1 decides if singular or plural will be used"
+msgid "Default shortcut"
+msgid_plural "Default shortcuts"
+msgstr[0] "Výchozí klávesová zkratka"
+msgstr[1] "Výchozí klávesové zkratky"
+msgstr[2] "Výchozí klávesové zkratky"
+
+#: ui/ShortcutActionDelegate.qml:97
+#, kde-format
+msgid "No default shortcuts"
+msgstr "Žádné výchozí klávesové zkratky"
+
+#: ui/ShortcutActionDelegate.qml:105
+#, kde-format
+msgid "Default shortcut %1 is enabled."
+msgstr "Výchozí klávesová zkratka %1 je povolena."
+
+#: ui/ShortcutActionDelegate.qml:105
+#, kde-format
+msgid "Default shortcut %1 is disabled."
+msgstr "Výchozí klávesová zkratka %1 je zakázána."
+
+#: ui/ShortcutActionDelegate.qml:126
+#, kde-format
+msgid "Custom shortcuts"
+msgstr "Vlastní zkratky"
+
+#: ui/ShortcutActionDelegate.qml:151
+#, kde-format
+msgid "Delete this shortcut"
+msgstr "Odstranit tuto klávesovou zkratku"
+
+#: ui/ShortcutActionDelegate.qml:157
+#, kde-format
+msgid "Add custom shortcut"
+msgstr "Přidat vlastní klávesovou zkratku"
+
+#: ui/ShortcutActionDelegate.qml:192
+#, kde-format
+msgid "Cancel capturing of new shortcut"
+msgstr "Zrušit zadání nové klávesové zkratky"

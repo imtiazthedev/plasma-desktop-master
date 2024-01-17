@@ -1,0 +1,169 @@
+# KDE breton translation
+# Thierry Vignaud <tvignaud@mandriva.com>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkded\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-06-29 02:07+0000\n"
+"PO-Revision-Date: 2004-09-19 18:12+0200\n"
+"Last-Translator: Thierry Vignaud <tvignaud.com>\n"
+"Language-Team: Brezhoneg <Suav.Icb.fr>\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: kcmkded.cpp:115
+#, fuzzy, kde-format
+msgid "Failed to stop service: %1"
+msgstr "N'hellan ket herzel ar servij."
+
+#: kcmkded.cpp:117
+#, fuzzy, kde-format
+msgid "Failed to start service: %1"
+msgstr "N'hellan ket loc'hañ ar servij."
+
+#: kcmkded.cpp:124
+#, fuzzy, kde-format
+msgid "Failed to stop service."
+msgstr "N'hellan ket herzel ar servij."
+
+#: kcmkded.cpp:126
+#, fuzzy, kde-format
+msgid "Failed to start service."
+msgstr "N'hellan ket loc'hañ ar servij."
+
+#: kcmkded.cpp:224
+#, kde-format
+msgid "Failed to notify KDE Service Manager (kded6) of saved changed: %1"
+msgstr ""
+
+#: ui/main.qml:36
+#, kde-format
+msgid ""
+"The background services manager (kded6) is currently not running. Make sure "
+"it is installed correctly."
+msgstr ""
+
+#: ui/main.qml:45
+#, kde-format
+msgid ""
+"Some services disable themselves again when manually started if they are not "
+"useful in the current environment."
+msgstr ""
+
+#: ui/main.qml:54
+#, kde-format
+msgid ""
+"Some services were automatically started/stopped when the background "
+"services manager (kded6) was restarted to apply your changes."
+msgstr ""
+
+#: ui/main.qml:96
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "All Services"
+msgstr "Servij"
+
+#: ui/main.qml:97
+#, fuzzy, kde-format
+#| msgid "Running"
+msgctxt "List running services"
+msgid "Running"
+msgstr "Emaon o seveniñ"
+
+#: ui/main.qml:98
+#, fuzzy, kde-format
+#| msgid "Not running"
+msgctxt "List not running services"
+msgid "Not Running"
+msgstr "N'eo ket bev"
+
+#: ui/main.qml:134
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "Startup Services"
+msgstr "Servij"
+
+#: ui/main.qml:135
+#, kde-format
+msgid "Load-on-Demand Services"
+msgstr ""
+
+#: ui/main.qml:152
+#, kde-format
+msgid "Toggle automatically loading this service on startup"
+msgstr ""
+
+#: ui/main.qml:219
+#, kde-format
+msgid "Not running"
+msgstr "N'eo ket bev"
+
+#: ui/main.qml:220
+#, kde-format
+msgid "Running"
+msgstr "Emaon o seveniñ"
+
+#: ui/main.qml:238
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "Stop Service"
+msgstr "Servij"
+
+#: ui/main.qml:238
+#, fuzzy, kde-format
+#| msgid "Service"
+msgid "Start Service"
+msgstr "Servij"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Thierry Vignaud, Jañ-Mai Drapier"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "tvignaud@mandriva.com, jdrapier@club-internet.fr"
+
+#, fuzzy
+#~| msgid "(c) 2002 Daniel Molkentin"
+#~ msgid "(c) 2002 Daniel Molkentin, (c) 2020 Kai Uwe Broulik"
+#~ msgstr "(c) 2002 Daniel Molkentin"
+
+#, fuzzy
+#~| msgid "(c) 2002 Daniel Molkentin"
+#~ msgid "Daniel Molkentin"
+#~ msgstr "(c) 2002 Daniel Molkentin"
+
+#~ msgid "kcmkded"
+#~ msgstr "kcmkded"
+
+#~ msgid "KDE Service Manager"
+#~ msgstr "Merour ar servijeroù KDE"
+
+#~ msgid "Status"
+#~ msgstr "Stad"
+
+#~ msgid "Description"
+#~ msgstr "Deskrivadur"
+
+#~ msgid "Use"
+#~ msgstr "Implijit"
+
+#~ msgid "Start"
+#~ msgstr "Loc'hañ"
+
+#~ msgid "Stop"
+#~ msgstr "Paouez"
+
+#~ msgid "Unable to contact KDED."
+#~ msgstr "N'hellan ket kevreañ ouzh KDED."
+
+#, fuzzy
+#~ msgid "Unable to start service <em>%1</em>.<br /><br /><i>Error: %2</i>"
+#~ msgstr "N'hellan ket loc'hañ ar servij."
+
+#, fuzzy
+#~ msgid "Unable to stop service <em>%1</em>.<br /><br /><i>Error: %2</i>"
+#~ msgstr "N'hellan ket herzel ar servij."

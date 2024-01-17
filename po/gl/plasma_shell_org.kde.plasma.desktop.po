@@ -1,0 +1,689 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Marce Villarino <mvillarino@kde-espana.org>, 2013, 2014.
+# Adrián Chaves Fernández <adriyetichaves@gmail.com>, 2015, 2016, 2017.
+# Adrián Chaves (Gallaecio) <adrian@chaves.io>, 2017, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-26 02:00+0000\n"
+"PO-Revision-Date: 2019-02-26 18:41+0100\n"
+"Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
+"Language-Team: Galician <kde-i18n-doc@kde.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: contents/activitymanager/ActivityItem.qml:205
+msgid "Currently being used"
+msgstr "En uso actualmente"
+
+#: contents/activitymanager/ActivityItem.qml:245
+#, fuzzy
+#| msgid "Stop activity"
+msgid ""
+"Move to\n"
+"this activity"
+msgstr "Deter a actividade"
+
+#: contents/activitymanager/ActivityItem.qml:275
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+
+#: contents/activitymanager/ActivityItem.qml:337
+msgid "Configure"
+msgstr "Configurar"
+
+#: contents/activitymanager/ActivityItem.qml:356
+msgid "Stop activity"
+msgstr "Deter a actividade"
+
+#: contents/activitymanager/ActivityList.qml:142
+msgid "Stopped activities:"
+msgstr "Actividades detidas:"
+
+#: contents/activitymanager/ActivityManager.qml:120
+#, fuzzy
+#| msgid "Create activity..."
+msgid "Create activity…"
+msgstr "Crear unha actividade…"
+
+#: contents/activitymanager/Heading.qml:59
+msgid "Activities"
+msgstr "Actividades"
+
+#: contents/activitymanager/StoppedActivityItem.qml:137
+msgid "Configure activity"
+msgstr "Configurar a actividade"
+
+#: contents/activitymanager/StoppedActivityItem.qml:154
+msgid "Delete"
+msgstr "Eliminar"
+
+#: contents/applet/AppletError.qml:128
+msgid "Sorry! There was an error loading %1."
+msgstr ""
+
+#: contents/applet/AppletError.qml:166
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: contents/applet/AppletError.qml:189
+msgid "View Error Details…"
+msgstr ""
+
+#: contents/applet/CompactApplet.qml:74
+msgid "Open %1"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:20
+#: contents/configuration/AppletConfiguration.qml:245
+msgid "About"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:48
+msgid "Send an email to %1"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:62
+msgctxt "@info:tooltip %1 url"
+msgid "Open website %1"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:130
+msgid "Copyright"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:148 contents/explorer/Tooltip.qml:92
+msgid "License:"
+msgstr "Licenza:"
+
+#: contents/configuration/AboutPlugin.qml:151
+msgctxt "@info:whatsthis"
+msgid "View license text"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:165
+#, fuzzy
+#| msgid "Author:"
+msgid "Authors"
+msgstr "Autor:"
+
+#: contents/configuration/AboutPlugin.qml:176
+msgid "Credits"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:188
+msgid "Translators"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:205
+msgid "Report a Bug…"
+msgstr ""
+
+#: contents/configuration/AppletConfiguration.qml:56
+msgid "Keyboard Shortcuts"
+msgstr "Atallos de teclado"
+
+#: contents/configuration/AppletConfiguration.qml:293
+msgid "Apply Settings"
+msgstr "Aplicar a configuración"
+
+#: contents/configuration/AppletConfiguration.qml:294
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Cambiouse a configuración do módulo activo. Quere aplicar os cambios ou "
+"descartalos?"
+
+#: contents/configuration/AppletConfiguration.qml:324
+msgid "OK"
+msgstr "Aceptar"
+
+#: contents/configuration/AppletConfiguration.qml:332
+msgid "Apply"
+msgstr "Aplicar"
+
+#: contents/configuration/AppletConfiguration.qml:338
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:27
+msgid "Open configuration page"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Left-Button"
+msgstr "Botón esquerdo"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Right-Button"
+msgstr "Botón secundario"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Middle-Button"
+msgstr "Botón central"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:24
+msgid "Back-Button"
+msgstr "Botón de retroceder"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Forward-Button"
+msgstr "Botón de avanzar"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:27
+msgid "Vertical-Scroll"
+msgstr "Desprazamento vertical"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Horizontal-Scroll"
+msgstr "Desprazamento horizontal"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Shift"
+msgstr "Maiús"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:98
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:170
+msgctxt "@title"
+msgid "About"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentActions.qml:185
+#: contents/configuration/MouseEventInputButton.qml:13
+msgid "Add Action"
+msgstr "Engadir unha acción"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:67
+msgid "Layout changes have been restricted by the system administrator"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:82
+msgid "Layout:"
+msgstr "Disposición:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:96
+#, fuzzy
+#| msgid "Wallpaper Type:"
+msgid "Wallpaper type:"
+msgstr "Tipo de fondo de escritorio:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:116
+#, fuzzy
+#| msgid "Get New Plugins..."
+msgid "Get New Plugins…"
+msgstr "Obter novos complementos…"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:184
+msgid "Layout changes must be applied before other changes can be made"
+msgstr ""
+"Os cambios de disposición deben aplicarse antes de poder facer outros "
+"cambios."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:188
+#, fuzzy
+#| msgid "Apply now"
+msgid "Apply Now"
+msgstr "Aplicar agora"
+
+#: contents/configuration/ConfigurationShortcuts.qml:17
+#, fuzzy
+#| msgid "Keyboard Shortcuts"
+msgid "Shortcuts"
+msgstr "Atallos de teclado"
+
+#: contents/configuration/ConfigurationShortcuts.qml:29
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "Este atallo activará o trebello como se o premese."
+
+#: contents/configuration/ContainmentConfiguration.qml:29
+msgid "Wallpaper"
+msgstr "Fondo de escritorio"
+
+#: contents/configuration/ContainmentConfiguration.qml:34
+msgid "Mouse Actions"
+msgstr "Accións do rato"
+
+#: contents/configuration/MouseEventInputButton.qml:20
+msgid "Input Here"
+msgstr "Escribir aquí"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:43
+#, fuzzy
+#| msgid "Apply Settings"
+msgid "Panel Settings"
+msgstr "Aplicar a configuración"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:49
+#, fuzzy
+#| msgid "Maximize Panel"
+msgctxt "@action:button Make the panel as big as it can be"
+msgid "Maximize"
+msgstr "Maximizar o panel"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Make this panel as tall as possible"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:54
+msgid "Make this panel as wide as possible"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@action:button Delete the panel"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:65
+msgid "Remove this panel; this action is undo-able"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:89
+#, fuzzy
+#| msgid "Panel Alignment"
+msgid "Alignment:"
+msgstr "Aliñamento do panel"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Top"
+msgstr "Arriba"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Left"
+msgstr "Á esquerda"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the top; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the left; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:104
+msgid "Center"
+msgstr "Centro"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:105
+msgid ""
+"Aligns a non-maximized panel to the center; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Bottom"
+msgstr "Abaixo"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Right"
+msgstr "Á dereita"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the bottom; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the right; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+#, fuzzy
+#| msgid "Visibility"
+msgid "Visibility:"
+msgstr "Visibilidade"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:147
+msgid "Always Visible"
+msgstr "Sempre visíbel"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:155
+#, fuzzy
+#| msgid "Auto Hide"
+msgid "Auto-Hide"
+msgstr "Agochar automaticamente"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:156
+msgid ""
+"Panel is hidden, but reveals itself when the cursor touches the panel's "
+"screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:183
+msgid "Opacity:"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:188
+msgid "Always Opaque"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:196
+msgid "Adaptive"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:197
+msgid ""
+"Panel is opaque when any windows are touching it, and translucent at other "
+"times"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:206
+#, fuzzy
+#| msgid "Always Visible"
+msgid "Always Translucent"
+msgstr "Sempre visíbel"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:233
+msgid "Floating:"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:238
+msgid "Floating"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:239
+msgid "Panel visibly floats away from its screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:248
+msgid "Attached"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:249
+msgid "Panel is attached to its screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:271
+#, fuzzy
+#| msgid "Keyboard Shortcuts"
+msgid "Focus Shortcut:"
+msgstr "Atallos de teclado"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:281
+msgid "Press this keyboard shortcut to move focus to the Panel"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum height."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum width."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Double click to reset."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum height."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum width."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:65
+msgid ""
+"Drag to change position on this screen edge.\n"
+"Double click to reset."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:26
+#, fuzzy
+#| msgid "Add widgets"
+msgid "Add Widgets…"
+msgstr "Engadir widgets"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:27
+msgid "Add Spacer"
+msgstr "Engadir un espazador"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:28
+#, fuzzy
+#| msgid "More Settings..."
+msgid "More Options…"
+msgstr "Máis opcións…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:226
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Drag to move"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:265
+msgctxt "@info:tooltip"
+msgid "Use arrow keys to move the panel"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel width:"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+#, fuzzy
+#| msgid "Panel Alignment"
+msgid "Panel height:"
+msgstr "Aliñamento do panel"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:406
+#: contents/configuration/ShellContainmentConfiguration.qml:43
+msgid "Close"
+msgstr "Pechar"
+
+#: contents/configuration/ShellContainmentConfiguration.qml:19
+msgid "Panels and Desktops Management"
+msgstr ""
+
+#: contents/configuration/ShellContainmentConfiguration.qml:34
+msgid ""
+"You can drag Panels and Desktops around to move them to different screens."
+msgstr ""
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:178
+msgid "Swap with Desktop on Screen %1"
+msgstr ""
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:179
+msgid "Move to Screen %1"
+msgstr ""
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:193
+#, fuzzy
+#| msgid "Empty Desktop"
+msgid "Remove Desktop"
+msgstr "Baleirar o escritorio"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:194
+msgid "Remove Panel"
+msgstr "Retirar o panel"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:267
+msgid "%1 (primary)"
+msgstr ""
+
+#: contents/explorer/AppletAlternatives.qml:64
+msgid "Alternative Widgets"
+msgstr "Trebellos alternativos"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Undo uninstall"
+msgstr "Desfacer a desinstalación"
+
+#: contents/explorer/AppletDelegate.qml:168
+msgid "Uninstall widget"
+msgstr "Desinstalar o trebello"
+
+#: contents/explorer/Tooltip.qml:101
+msgid "Author:"
+msgstr "Autor:"
+
+#: contents/explorer/Tooltip.qml:109
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: contents/explorer/Tooltip.qml:128
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: contents/explorer/WidgetExplorer.qml:118
+#: contents/explorer/WidgetExplorer.qml:192
+#, fuzzy
+#| msgid "Widgets"
+msgid "All Widgets"
+msgstr "Trebellos"
+
+#: contents/explorer/WidgetExplorer.qml:144
+msgid "Widgets"
+msgstr "Trebellos"
+
+#: contents/explorer/WidgetExplorer.qml:152
+#, fuzzy
+#| msgid "Get New Widgets..."
+msgid "Get New Widgets…"
+msgstr "Obter novos trebellos…"
+
+#: contents/explorer/WidgetExplorer.qml:203
+msgid "Categories"
+msgstr "Categorías"
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets matched the search terms"
+msgstr ""
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets available"
+msgstr ""
+
+#~ msgid "Switch"
+#~ msgstr "Cambiar"
+
+#, fuzzy
+#~| msgid "Windows Go Below"
+#~ msgid "Windows Above"
+#~ msgstr "As xanelas van en baixo"
+
+#, fuzzy
+#~| msgid "Windows Go Below"
+#~ msgid "Windows Below"
+#~ msgstr "As xanelas van en baixo"
+
+#, fuzzy
+#~| msgid "Windows Can Cover"
+#~ msgid "Windows In Front"
+#~ msgstr "As xanelas poden cubrilo"
+
+#, fuzzy
+#~| msgid "Search..."
+#~ msgid "Search…"
+#~ msgstr "Buscar…"
+
+#~ msgid "Screen Edge"
+#~ msgstr "Bordo da pantalla"
+
+#~ msgid "Click and drag the button to a screen edge to move the panel there."
+#~ msgstr ""
+#~ "Prema e arrastre o botón a un bordo da pantalla para mover o panel a el."
+
+#~ msgid "Add Widgets..."
+#~ msgstr "Engadir trebellos…"
+
+#~ msgid "Width"
+#~ msgstr "Anchura"
+
+#~ msgid "Height"
+#~ msgstr "Altura"
+
+#~ msgid "Click and drag the button to resize the panel."
+#~ msgstr "Prema e arrastre o botón para cambiar o tamaño do panel."
+
+#~ msgid "Layout cannot be changed while widgets are locked"
+#~ msgstr ""
+#~ "Non se pode cambiar a disposición mentres os trebellos estean bloqueados."
+
+#~ msgid "Lock Widgets"
+#~ msgstr "Bloquear os trebellos"
+
+#~ msgid ""
+#~ "This shortcut will activate the applet: it will give the keyboard focus "
+#~ "to it, and if the applet has a popup (such as the start menu), the popup "
+#~ "will be open."
+#~ msgstr ""
+#~ "Este atallo activará o miniaplicativo, é dicir, porá o foco de teclado no "
+#~ "miniaplicativo e se este ten unha xanela emerxente (como o menú de "
+#~ "inicio) esta abrirase."
+
+#~ msgid "Stop"
+#~ msgstr "Deter"
+
+#~ msgid "Activity name:"
+#~ msgstr "Nome da actividade:"
+
+#~ msgid "Create"
+#~ msgstr "Crear"
+
+#~ msgid "Are you sure you want to delete this activity?"
+#~ msgstr "Desexa realmente eliminar a actividade?"
+
+#, fuzzy
+#~| msgid "Ok"
+#~ msgctxt "org.kde.plasma.desktop"
+#~ msgid "Ok"
+#~ msgstr "Aceptar"
+
+#, fuzzy
+#~| msgid "Apply"
+#~ msgctxt "org.kde.plasma.desktop"
+#~ msgid "Apply"
+#~ msgstr "Aplicar"
+
+#, fuzzy
+#~| msgid "Cancel"
+#~ msgctxt "org.kde.plasma.desktop"
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Enter search term..."
+#~ msgstr "Insira aquí o termo a buscar..."
+
+#~ msgid "Remove activity %1?"
+#~ msgstr "Desexa eliminar a actividade %1?"
+
+#~ msgid "Remove"
+#~ msgstr "Eliminar"
+
+#~ msgid "Templates"
+#~ msgstr "Modelos"
+
+#, fuzzy
+#~| msgid "Apply"
+#~ msgid "Applet: "
+#~ msgstr "Aplicar"

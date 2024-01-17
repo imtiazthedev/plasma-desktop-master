@@ -1,0 +1,635 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Marek Laane <qiilaq69@gmail.com>, 2016, 2019, 2020.
+# Mihkel Tõnnov <mihhkel@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-26 02:00+0000\n"
+"PO-Revision-Date: 2020-10-08 11:52+0200\n"
+"Last-Translator: Mihkel Tõnnov <mihhkel@gmail.com>\n"
+"Language-Team: Estonian <>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.08.1\n"
+
+#: contents/activitymanager/ActivityItem.qml:205
+msgid "Currently being used"
+msgstr "Kasutatakse praegu"
+
+#: contents/activitymanager/ActivityItem.qml:245
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Liiguta\n"
+"sellesse tegevusse"
+
+#: contents/activitymanager/ActivityItem.qml:275
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Näita ka\n"
+"selles tegevuses"
+
+#: contents/activitymanager/ActivityItem.qml:337
+msgid "Configure"
+msgstr "Seadista"
+
+#: contents/activitymanager/ActivityItem.qml:356
+msgid "Stop activity"
+msgstr "Peata tegevus"
+
+#: contents/activitymanager/ActivityList.qml:142
+msgid "Stopped activities:"
+msgstr "Peatatud tegevused:"
+
+#: contents/activitymanager/ActivityManager.qml:120
+#, fuzzy
+#| msgid "Create activity..."
+msgid "Create activity…"
+msgstr "Loo tegevus ..."
+
+#: contents/activitymanager/Heading.qml:59
+msgid "Activities"
+msgstr "Tegevused"
+
+#: contents/activitymanager/StoppedActivityItem.qml:137
+msgid "Configure activity"
+msgstr "Seadista tegevust"
+
+#: contents/activitymanager/StoppedActivityItem.qml:154
+msgid "Delete"
+msgstr "Kustuta"
+
+#: contents/applet/AppletError.qml:128
+msgid "Sorry! There was an error loading %1."
+msgstr ""
+
+#: contents/applet/AppletError.qml:166
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: contents/applet/AppletError.qml:189
+msgid "View Error Details…"
+msgstr ""
+
+#: contents/applet/CompactApplet.qml:74
+msgid "Open %1"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:20
+#: contents/configuration/AppletConfiguration.qml:245
+msgid "About"
+msgstr "Teave"
+
+#: contents/configuration/AboutPlugin.qml:48
+msgid "Send an email to %1"
+msgstr "Saada kiri: %1"
+
+#: contents/configuration/AboutPlugin.qml:62
+msgctxt "@info:tooltip %1 url"
+msgid "Open website %1"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:130
+msgid "Copyright"
+msgstr "Autoriõigus"
+
+#: contents/configuration/AboutPlugin.qml:148 contents/explorer/Tooltip.qml:92
+msgid "License:"
+msgstr "Litsents:"
+
+#: contents/configuration/AboutPlugin.qml:151
+msgctxt "@info:whatsthis"
+msgid "View license text"
+msgstr ""
+
+#: contents/configuration/AboutPlugin.qml:165
+msgid "Authors"
+msgstr "Autorid"
+
+#: contents/configuration/AboutPlugin.qml:176
+msgid "Credits"
+msgstr "Tänuavaldused"
+
+#: contents/configuration/AboutPlugin.qml:188
+msgid "Translators"
+msgstr "Tõlkijad"
+
+#: contents/configuration/AboutPlugin.qml:205
+msgid "Report a Bug…"
+msgstr ""
+
+#: contents/configuration/AppletConfiguration.qml:56
+msgid "Keyboard Shortcuts"
+msgstr "Kiirklahvid"
+
+#: contents/configuration/AppletConfiguration.qml:293
+msgid "Apply Settings"
+msgstr "Rakenda seadistused"
+
+#: contents/configuration/AppletConfiguration.qml:294
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"Aktiivse mooduli seadistusi on muudetud. Kas muudatused rakendada või "
+"tühistada?"
+
+#: contents/configuration/AppletConfiguration.qml:324
+msgid "OK"
+msgstr "OK"
+
+#: contents/configuration/AppletConfiguration.qml:332
+msgid "Apply"
+msgstr "Rakenda"
+
+#: contents/configuration/AppletConfiguration.qml:338
+msgid "Cancel"
+msgstr "Loobu"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:27
+msgid "Open configuration page"
+msgstr ""
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Left-Button"
+msgstr "Vasak nupp"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Right-Button"
+msgstr "Parem nupp"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Middle-Button"
+msgstr "Keskmine nupp"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:24
+msgid "Back-Button"
+msgstr "Tagasinupp"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Forward-Button"
+msgstr "Edasinupp"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:27
+msgid "Vertical-Scroll"
+msgstr "Püstsuunas kerimine"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Horizontal-Scroll"
+msgstr "Rõhtsuunas kerimine"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Shift"
+msgstr "Shift"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:98
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:170
+#, fuzzy
+#| msgid "About"
+msgctxt "@title"
+msgid "About"
+msgstr "Teave"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:185
+#: contents/configuration/MouseEventInputButton.qml:13
+msgid "Add Action"
+msgstr "Lisa toiming"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:67
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "Süsteemiadministraator on keelanud paigutuse muutmise"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:82
+msgid "Layout:"
+msgstr "Paigutus:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:96
+#, fuzzy
+#| msgid "Wallpaper Type:"
+msgid "Wallpaper type:"
+msgstr "Taustapildi tüüp:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:116
+#, fuzzy
+#| msgid "Get New Plugins..."
+msgid "Get New Plugins…"
+msgstr "Hangi uusi pluginaid ..."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:184
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "Enne muude muutuste tegemist tuleb paigutuse muudatused rakendada."
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:188
+#, fuzzy
+#| msgid "Apply now"
+msgid "Apply Now"
+msgstr "Rakenda kohe"
+
+#: contents/configuration/ConfigurationShortcuts.qml:17
+#, fuzzy
+#| msgid "Keyboard Shortcuts"
+msgid "Shortcuts"
+msgstr "Kiirklahvid"
+
+#: contents/configuration/ConfigurationShortcuts.qml:29
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "See kiirklahv aktiveerib apleti, nagu oleks otse sellele klõpsatud."
+
+#: contents/configuration/ContainmentConfiguration.qml:29
+msgid "Wallpaper"
+msgstr "Taustapilt"
+
+#: contents/configuration/ContainmentConfiguration.qml:34
+msgid "Mouse Actions"
+msgstr "Hiire toimingud"
+
+#: contents/configuration/MouseEventInputButton.qml:20
+msgid "Input Here"
+msgstr "Sisend"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:43
+#, fuzzy
+#| msgid "Apply Settings"
+msgid "Panel Settings"
+msgstr "Rakenda seadistused"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:49
+#, fuzzy
+#| msgid "Maximize Panel"
+msgctxt "@action:button Make the panel as big as it can be"
+msgid "Maximize"
+msgstr "Maksimeeri paneel"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Make this panel as tall as possible"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:54
+msgid "Make this panel as wide as possible"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+#, fuzzy
+#| msgid "Delete"
+msgctxt "@action:button Delete the panel"
+msgid "Delete"
+msgstr "Kustuta"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:65
+msgid "Remove this panel; this action is undo-able"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:89
+#, fuzzy
+#| msgid "Panel Alignment"
+msgid "Alignment:"
+msgstr "Paneeli joondus"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Top"
+msgstr "Ülal"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Left"
+msgstr "Vasakul"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the top; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the left; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:104
+msgid "Center"
+msgstr "Keskel"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:105
+msgid ""
+"Aligns a non-maximized panel to the center; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Bottom"
+msgstr "All"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Right"
+msgstr "Paremal"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the bottom; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the right; no effect when panel is maximized"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+#, fuzzy
+#| msgid "Visibility"
+msgid "Visibility:"
+msgstr "Nähtavus"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:147
+msgid "Always Visible"
+msgstr "Alati nähtav"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:155
+#, fuzzy
+#| msgid "Auto Hide"
+msgid "Auto-Hide"
+msgstr "Automaatne peitmine"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:156
+msgid ""
+"Panel is hidden, but reveals itself when the cursor touches the panel's "
+"screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:183
+msgid "Opacity:"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:188
+msgid "Always Opaque"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:196
+msgid "Adaptive"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:197
+msgid ""
+"Panel is opaque when any windows are touching it, and translucent at other "
+"times"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:206
+#, fuzzy
+#| msgid "Translators"
+msgid "Always Translucent"
+msgstr "Tõlkijad"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:233
+msgid "Floating:"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:238
+msgid "Floating"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:239
+msgid "Panel visibly floats away from its screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:248
+msgid "Attached"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:249
+msgid "Panel is attached to its screen edge"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:271
+#, fuzzy
+#| msgid "Keyboard Shortcuts"
+msgid "Focus Shortcut:"
+msgstr "Kiirklahvid"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:281
+msgid "Press this keyboard shortcut to move focus to the Panel"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum height."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum width."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Double click to reset."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum height."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum width."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/Ruler.qml:65
+msgid ""
+"Drag to change position on this screen edge.\n"
+"Double click to reset."
+msgstr ""
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:26
+#, fuzzy
+#| msgid "Add Widgets..."
+msgid "Add Widgets…"
+msgstr "Lisa vidinaid..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:27
+msgid "Add Spacer"
+msgstr "Lisa eraldaja"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:28
+#, fuzzy
+#| msgid "More Options..."
+msgid "More Options…"
+msgstr "Rohkem valikuid ..."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:226
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Drag to move"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:265
+msgctxt "@info:tooltip"
+msgid "Use arrow keys to move the panel"
+msgstr ""
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel width:"
+msgstr "Paneeli laius:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel height:"
+msgstr "Paneeli kõrgus:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:406
+#: contents/configuration/ShellContainmentConfiguration.qml:43
+msgid "Close"
+msgstr "Sulge"
+
+#: contents/configuration/ShellContainmentConfiguration.qml:19
+msgid "Panels and Desktops Management"
+msgstr ""
+
+#: contents/configuration/ShellContainmentConfiguration.qml:34
+msgid ""
+"You can drag Panels and Desktops around to move them to different screens."
+msgstr ""
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:178
+msgid "Swap with Desktop on Screen %1"
+msgstr ""
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:179
+msgid "Move to Screen %1"
+msgstr ""
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:193
+#, fuzzy
+#| msgid "Remove Panel"
+msgid "Remove Desktop"
+msgstr "Eemalda paneel"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:194
+msgid "Remove Panel"
+msgstr "Eemalda paneel"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:267
+msgid "%1 (primary)"
+msgstr ""
+
+#: contents/explorer/AppletAlternatives.qml:64
+msgid "Alternative Widgets"
+msgstr "Alternatiivsed vidinad"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Undo uninstall"
+msgstr "Tühista eemaldamine"
+
+#: contents/explorer/AppletDelegate.qml:168
+msgid "Uninstall widget"
+msgstr "Eemalda vidin"
+
+#: contents/explorer/Tooltip.qml:101
+msgid "Author:"
+msgstr "Autor:"
+
+#: contents/explorer/Tooltip.qml:109
+msgid "Email:"
+msgstr "E-posti aadress:"
+
+#: contents/explorer/Tooltip.qml:128
+msgid "Uninstall"
+msgstr "Eemalda"
+
+#: contents/explorer/WidgetExplorer.qml:118
+#: contents/explorer/WidgetExplorer.qml:192
+msgid "All Widgets"
+msgstr "Kõik vidinad"
+
+#: contents/explorer/WidgetExplorer.qml:144
+msgid "Widgets"
+msgstr "Vidinad"
+
+#: contents/explorer/WidgetExplorer.qml:152
+#, fuzzy
+#| msgid "Get New Widgets..."
+msgid "Get New Widgets…"
+msgstr "Hangi uusi vidinaid ..."
+
+#: contents/explorer/WidgetExplorer.qml:203
+msgid "Categories"
+msgstr "Kategooriad"
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets matched the search terms"
+msgstr "Otsinguga ei sobi ükski vidin"
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets available"
+msgstr "Ühtegi vidinat pole saada"
+
+#~ msgid "Switch"
+#~ msgstr "Vaheta"
+
+#, fuzzy
+#~| msgid "Windows Go Below"
+#~ msgid "Windows Above"
+#~ msgstr "Võib jääda akende peale"
+
+#, fuzzy
+#~| msgid "Windows Go Below"
+#~ msgid "Windows Below"
+#~ msgstr "Võib jääda akende peale"
+
+#, fuzzy
+#~| msgid "Windows Can Cover"
+#~ msgid "Windows In Front"
+#~ msgstr "Võib jääda akende alla"
+
+#, fuzzy
+#~| msgid "Search..."
+#~ msgid "Search…"
+#~ msgstr "Otsi ..."
+
+#~ msgid "Screen Edge"
+#~ msgstr "Ekraani serv"
+
+#~ msgid "Click and drag the button to a screen edge to move the panel there."
+#~ msgstr "Klõpsa ja lohista nupp ekraani serva, et paneel sinna liigutada."
+
+#~ msgid "Width"
+#~ msgstr "Laius"
+
+#~ msgid "Height"
+#~ msgstr "Kõrgus"
+
+#~ msgid "Click and drag the button to resize the panel."
+#~ msgstr "Paneeli suuruse muutmiseks klõpsa ja lohista nuppu."
+
+#~ msgid "Layout cannot be changed while widgets are locked"
+#~ msgstr "Paigutust ei saa muuta, kui vidinad on lukustatud."
+
+#~ msgid "Lock Widgets"
+#~ msgstr "Lukusta vidinad"
+
+#~ msgid ""
+#~ "This shortcut will activate the applet: it will give the keyboard focus "
+#~ "to it, and if the applet has a popup (such as the start menu), the popup "
+#~ "will be open."
+#~ msgstr ""
+#~ "See kiirklahv aktiveerib apleti: annab selle klaviatuurifookuse ja kui "
+#~ "apletil on hüpikelement (näiteks käivitusmenüü), siis avab ka selle."
+
+#~ msgid "Stop"
+#~ msgstr "Peata"

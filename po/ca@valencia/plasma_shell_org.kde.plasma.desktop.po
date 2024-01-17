@@ -1,0 +1,569 @@
+# Translation of plasma_shell_org.kde.plasma.desktop.po to Catalan (Valencian)
+# Copyright (C) 2013-2023 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep M. Ferrer <txemaq@gmail.com>, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2016, 2020.
+# Alfredo Vicente <alviboi@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-26 02:00+0000\n"
+"PO-Revision-Date: 2023-07-31 13:07+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Lokalize 22.12.3\n"
+
+#: contents/activitymanager/ActivityItem.qml:205
+msgid "Currently being used"
+msgstr "Actualment s'està utilitzant"
+
+#: contents/activitymanager/ActivityItem.qml:245
+msgid ""
+"Move to\n"
+"this activity"
+msgstr ""
+"Mou a\n"
+"esta activitat"
+
+#: contents/activitymanager/ActivityItem.qml:275
+msgid ""
+"Show also\n"
+"in this activity"
+msgstr ""
+"Mostra també\n"
+"en esta activitat"
+
+#: contents/activitymanager/ActivityItem.qml:337
+msgid "Configure"
+msgstr "Configura"
+
+#: contents/activitymanager/ActivityItem.qml:356
+msgid "Stop activity"
+msgstr "Para l'activitat"
+
+#: contents/activitymanager/ActivityList.qml:142
+msgid "Stopped activities:"
+msgstr "Activitats parades:"
+
+#: contents/activitymanager/ActivityManager.qml:120
+msgid "Create activity…"
+msgstr "Crea una activitat…"
+
+#: contents/activitymanager/Heading.qml:59
+msgid "Activities"
+msgstr "Activitats"
+
+#: contents/activitymanager/StoppedActivityItem.qml:137
+msgid "Configure activity"
+msgstr "Configura l'activitat"
+
+#: contents/activitymanager/StoppedActivityItem.qml:154
+msgid "Delete"
+msgstr "Suprimix"
+
+#: contents/applet/AppletError.qml:128
+msgid "Sorry! There was an error loading %1."
+msgstr "S'ha produït un error en carregar %1."
+
+#: contents/applet/AppletError.qml:166
+msgid "Copy to Clipboard"
+msgstr "Copia al porta-retalls"
+
+#: contents/applet/AppletError.qml:189
+msgid "View Error Details…"
+msgstr "Visualitza els detalls de l'error…"
+
+#: contents/applet/CompactApplet.qml:74
+msgid "Open %1"
+msgstr "Obri %1"
+
+#: contents/configuration/AboutPlugin.qml:20
+#: contents/configuration/AppletConfiguration.qml:245
+msgid "About"
+msgstr "Quant a"
+
+#: contents/configuration/AboutPlugin.qml:48
+msgid "Send an email to %1"
+msgstr "Envia un correu a %1"
+
+#: contents/configuration/AboutPlugin.qml:62
+msgctxt "@info:tooltip %1 url"
+msgid "Open website %1"
+msgstr "Obri el lloc web %1"
+
+#: contents/configuration/AboutPlugin.qml:130
+msgid "Copyright"
+msgstr "Drets d'autoria"
+
+#: contents/configuration/AboutPlugin.qml:148 contents/explorer/Tooltip.qml:92
+msgid "License:"
+msgstr "Llicència:"
+
+#: contents/configuration/AboutPlugin.qml:151
+msgctxt "@info:whatsthis"
+msgid "View license text"
+msgstr "Vista del text de la llicència"
+
+#: contents/configuration/AboutPlugin.qml:165
+msgid "Authors"
+msgstr "Autoria"
+
+#: contents/configuration/AboutPlugin.qml:176
+msgid "Credits"
+msgstr "Atribucions"
+
+#: contents/configuration/AboutPlugin.qml:188
+msgid "Translators"
+msgstr "Equip de traducció"
+
+#: contents/configuration/AboutPlugin.qml:205
+msgid "Report a Bug…"
+msgstr "Informeu d'un error…"
+
+#: contents/configuration/AppletConfiguration.qml:56
+msgid "Keyboard Shortcuts"
+msgstr "Dreceres de teclat"
+
+#: contents/configuration/AppletConfiguration.qml:293
+msgid "Apply Settings"
+msgstr "Aplica la configuració"
+
+#: contents/configuration/AppletConfiguration.qml:294
+msgid ""
+"The settings of the current module have changed. Do you want to apply the "
+"changes or discard them?"
+msgstr ""
+"La configuració del mòdul actual ha canviat. Voleu aplicar els canvis o "
+"descartar-los?"
+
+#: contents/configuration/AppletConfiguration.qml:324
+msgid "OK"
+msgstr "D'acord"
+
+#: contents/configuration/AppletConfiguration.qml:332
+msgid "Apply"
+msgstr "Aplica"
+
+#: contents/configuration/AppletConfiguration.qml:338
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: contents/configuration/ConfigCategoryDelegate.qml:27
+msgid "Open configuration page"
+msgstr "Obri la pàgina de configuració"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:21
+msgid "Left-Button"
+msgstr "Botó esquerre"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:22
+msgid "Right-Button"
+msgstr "Botó dret"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:23
+msgid "Middle-Button"
+msgstr "Botó del mig"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:24
+msgid "Back-Button"
+msgstr "Botó arrere"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:25
+msgid "Forward-Button"
+msgstr "Botó avant"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:27
+msgid "Vertical-Scroll"
+msgstr "Desplaçament vertical"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:28
+msgid "Horizontal-Scroll"
+msgstr "Desplaçament horitzontal"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:30
+msgid "Shift"
+msgstr "Majúscules"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:31
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:32
+msgid "Alt"
+msgstr "Alt"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:33
+msgid "Meta"
+msgstr "Meta"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:98
+msgctxt "Concatenation sign for shortcuts, e.g. Ctrl+Shift"
+msgid "+"
+msgstr "+"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:170
+msgctxt "@title"
+msgid "About"
+msgstr "Quant a"
+
+#: contents/configuration/ConfigurationContainmentActions.qml:185
+#: contents/configuration/MouseEventInputButton.qml:13
+msgid "Add Action"
+msgstr "Afig una acció"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:67
+msgid "Layout changes have been restricted by the system administrator"
+msgstr "L'administrador del sistema ha restringit els canvis de la disposició"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:82
+msgid "Layout:"
+msgstr "Disposició:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:96
+msgid "Wallpaper type:"
+msgstr "Tipus de fons de pantalla:"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:116
+msgid "Get New Plugins…"
+msgstr "Obtín connectors nous…"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:184
+msgid "Layout changes must be applied before other changes can be made"
+msgstr "Cal aplicar els canvis de disposició abans de poder fer altres canvis"
+
+#: contents/configuration/ConfigurationContainmentAppearance.qml:188
+msgid "Apply Now"
+msgstr "Aplica ara"
+
+#: contents/configuration/ConfigurationShortcuts.qml:17
+msgid "Shortcuts"
+msgstr "Dreceres"
+
+#: contents/configuration/ConfigurationShortcuts.qml:29
+msgid "This shortcut will activate the applet as though it had been clicked."
+msgstr "Esta drecera activarà la miniaplicació com si s'haguera clicat."
+
+#: contents/configuration/ContainmentConfiguration.qml:29
+msgid "Wallpaper"
+msgstr "Fons de pantalla"
+
+#: contents/configuration/ContainmentConfiguration.qml:34
+msgid "Mouse Actions"
+msgstr "Accions del ratolí"
+
+#: contents/configuration/MouseEventInputButton.qml:20
+msgid "Input Here"
+msgstr "Introduïu-ho ací"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:43
+msgid "Panel Settings"
+msgstr "Configureu el quadro"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:49
+msgctxt "@action:button Make the panel as big as it can be"
+msgid "Maximize"
+msgstr "Maximitza"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:53
+msgid "Make this panel as tall as possible"
+msgstr "Fa este quadro el més alt possible"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:54
+msgid "Make this panel as wide as possible"
+msgstr "Fa este quadro el més ample possible"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:62
+msgctxt "@action:button Delete the panel"
+msgid "Delete"
+msgstr "Suprimix"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:65
+msgid "Remove this panel; this action is undo-able"
+msgstr "Elimina este quadro. Esta acció no es podrà desfer"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:89
+msgid "Alignment:"
+msgstr "Alineació:"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Top"
+msgstr "Dalt"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:95
+msgid "Left"
+msgstr "Esquerra"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the top; no effect when panel is maximized"
+msgstr ""
+"Alinea el quadro a la part superior si no està maximitzat. No tindrà cap "
+"efecte si el quadro està maximitzat"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:96
+msgid ""
+"Aligns a non-maximized panel to the left; no effect when panel is maximized"
+msgstr ""
+"Alinea el quadro a l'esquerra si no està maximitzat. No tindrà cap efecte si "
+"el quadro està maximitzat"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:104
+msgid "Center"
+msgstr "Centre"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:105
+msgid ""
+"Aligns a non-maximized panel to the center; no effect when panel is maximized"
+msgstr ""
+"Alinea el quadro al centre si no està maximitzat. No tindrà cap efecte si el "
+"quadro està maximitzat"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Bottom"
+msgstr "Baix"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:113
+msgid "Right"
+msgstr "Dreta"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the bottom; no effect when panel is maximized"
+msgstr ""
+"Alinea el quadro a la part inferior si no està maximitzat. No tindrà cap "
+"efecte si el quadro està maximitzat"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:114
+msgid ""
+"Aligns a non-maximized panel to the right; no effect when panel is maximized"
+msgstr ""
+"Alinea el quadro a la dreta si no està maximitzat. No tindrà cap efecte si "
+"el quadro està maximitzat"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:142
+msgid "Visibility:"
+msgstr "Visibilitat:"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:147
+msgid "Always Visible"
+msgstr "Sempre visible"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:155
+msgid "Auto-Hide"
+msgstr "Oculta automàticament"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:156
+msgid ""
+"Panel is hidden, but reveals itself when the cursor touches the panel's "
+"screen edge"
+msgstr ""
+"El quadro està ocult, però es mostrarà quan el cursor toque la vora de la "
+"pantalla del quadro"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:183
+msgid "Opacity:"
+msgstr "Opacitat:"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:188
+msgid "Always Opaque"
+msgstr "Sempre opac"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:196
+msgid "Adaptive"
+msgstr "Adaptativa"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:197
+msgid ""
+"Panel is opaque when any windows are touching it, and translucent at other "
+"times"
+msgstr ""
+"El quadro serà opac quan el toque qualsevol finestra, i translúcid la resta "
+"del temps"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:206
+msgid "Always Translucent"
+msgstr "Sempre translúcid"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:233
+msgid "Floating:"
+msgstr "Flotant:"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:238
+msgid "Floating"
+msgstr "Flotant"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:239
+msgid "Panel visibly floats away from its screen edge"
+msgstr "El quadro flota visiblement lluny de la vora de la pantalla"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:248
+msgid "Attached"
+msgstr "Fixat"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:249
+msgid "Panel is attached to its screen edge"
+msgstr "El quadro està ancorat a la seua vora de la pantalla"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:271
+msgid "Focus Shortcut:"
+msgstr "Drecera de focus:"
+
+#: contents/configuration/panelconfiguration/MoreSettingsMenu.qml:281
+msgid "Press this keyboard shortcut to move focus to the Panel"
+msgstr "Premeu esta drecera de teclat per a moure el focus al quadro"
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum height."
+msgstr "Arrossegueu per a canviar l'alçària màxima."
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+msgid "Drag to change maximum width."
+msgstr "Arrossegueu per a canviar l'amplària màxima."
+
+#: contents/configuration/panelconfiguration/Ruler.qml:20
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Double click to reset."
+msgstr "Doble clic per a reiniciar."
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum height."
+msgstr "Arrossegueu per a canviar l'alçària mínima."
+
+#: contents/configuration/panelconfiguration/Ruler.qml:21
+msgid "Drag to change minimum width."
+msgstr "Arrossegueu per a canviar l'amplària mínima."
+
+#: contents/configuration/panelconfiguration/Ruler.qml:65
+msgid ""
+"Drag to change position on this screen edge.\n"
+"Double click to reset."
+msgstr ""
+"Arrossegueu per a canviar a esta vora de la pantalla.\n"
+"Doble clic per a reiniciar."
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:26
+msgid "Add Widgets…"
+msgstr "Afig ginys…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:27
+msgid "Add Spacer"
+msgstr "Afig un espaiador"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:28
+msgid "More Options…"
+msgstr "Més opcions…"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:226
+msgctxt "Minimize the length of this string as much as possible"
+msgid "Drag to move"
+msgstr "Arrossegueu per a moure"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:265
+msgctxt "@info:tooltip"
+msgid "Use arrow keys to move the panel"
+msgstr "Utilitzeu les tecles de fletxa per a moure el quadro"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel width:"
+msgstr "Amplària del quadro:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:286
+msgid "Panel height:"
+msgstr "Alçària del quadro:"
+
+#: contents/configuration/panelconfiguration/ToolBar.qml:406
+#: contents/configuration/ShellContainmentConfiguration.qml:43
+msgid "Close"
+msgstr "Tanca"
+
+#: contents/configuration/ShellContainmentConfiguration.qml:19
+msgid "Panels and Desktops Management"
+msgstr "Gestió de quadros i escriptoris"
+
+#: contents/configuration/ShellContainmentConfiguration.qml:34
+msgid ""
+"You can drag Panels and Desktops around to move them to different screens."
+msgstr ""
+"Podeu arrossegar els quadros i els escriptoris per a moure'ls cap a "
+"pantalles diferents."
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:178
+msgid "Swap with Desktop on Screen %1"
+msgstr "Intercanvia amb l'escriptori de la pantalla %1"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:179
+msgid "Move to Screen %1"
+msgstr "Mou a la pantalla %1"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:193
+msgid "Remove Desktop"
+msgstr "Elimina l'escriptori"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:194
+msgid "Remove Panel"
+msgstr "Elimina el quadro"
+
+#: contents/configuration/shellcontainmentconfiguration/Delegate.qml:267
+msgid "%1 (primary)"
+msgstr "%1 (primària)"
+
+#: contents/explorer/AppletAlternatives.qml:64
+msgid "Alternative Widgets"
+msgstr "Ginys alternatius"
+
+#: contents/explorer/AppletDelegate.qml:167
+msgid "Undo uninstall"
+msgstr "Desfés la desinstal·lació"
+
+#: contents/explorer/AppletDelegate.qml:168
+msgid "Uninstall widget"
+msgstr "Desinstal·la el giny"
+
+#: contents/explorer/Tooltip.qml:101
+msgid "Author:"
+msgstr "Autoria:"
+
+#: contents/explorer/Tooltip.qml:109
+msgid "Email:"
+msgstr "Correu electrònic:"
+
+#: contents/explorer/Tooltip.qml:128
+msgid "Uninstall"
+msgstr "Desinstal·la"
+
+#: contents/explorer/WidgetExplorer.qml:118
+#: contents/explorer/WidgetExplorer.qml:192
+msgid "All Widgets"
+msgstr "Tots els ginys"
+
+#: contents/explorer/WidgetExplorer.qml:144
+msgid "Widgets"
+msgstr "Ginys"
+
+#: contents/explorer/WidgetExplorer.qml:152
+msgid "Get New Widgets…"
+msgstr "Obtín ginys nous…"
+
+#: contents/explorer/WidgetExplorer.qml:203
+msgid "Categories"
+msgstr "Categories"
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets matched the search terms"
+msgstr "No hi ha cap giny que coincidisca amb els termes de la busca"
+
+#: contents/explorer/WidgetExplorer.qml:283
+msgid "No widgets available"
+msgstr "No hi ha cap giny disponible"
+
+#~ msgid "Switch"
+#~ msgstr "Canvia"

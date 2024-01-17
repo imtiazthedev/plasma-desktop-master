@@ -1,0 +1,138 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Elkana Bardugo <ttv200@gmail.com>, 2016.
+# Elkana Bardugo <ttv200@gmail.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_search\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-07-02 02:36+0000\n"
+"PO-Revision-Date: 2017-05-16 11:55-0400\n"
+"Last-Translator: Elkana Bardugo <ttv200@gmail.com>\n"
+"Language-Team: Hebrew <kde-i18n-doc@kde.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Zanata 3.9.6\n"
+
+#: ui/main.qml:31
+#, kde-format
+msgid "Position on screen:"
+msgstr ""
+
+#: ui/main.qml:35
+#, kde-format
+msgid "Top"
+msgstr ""
+
+#: ui/main.qml:42
+#, kde-format
+msgid "Center"
+msgstr ""
+
+#: ui/main.qml:55
+#, kde-format
+msgid "Activation:"
+msgstr ""
+
+#: ui/main.qml:58
+#, kde-format
+msgctxt "@option:check"
+msgid "Activate when pressing any key on the desktop"
+msgstr ""
+
+#: ui/main.qml:71
+#, fuzzy, kde-format
+#| msgid "Clear History"
+msgid "History:"
+msgstr "נקה היסטוריה"
+
+#: ui/main.qml:74
+#, kde-format
+msgctxt "@option:check"
+msgid "Disabled"
+msgstr ""
+
+#: ui/main.qml:79
+#, kde-format
+msgctxt "@option:check The thing being enabled is search history"
+msgid "Enable suggestions"
+msgstr ""
+
+#: ui/main.qml:84
+#, kde-format
+msgctxt "@option:check The thing being enabled is search history"
+msgid "Enabled auto-complete"
+msgstr ""
+
+#: ui/main.qml:92
+#, fuzzy, kde-format
+#| msgid "Clear History"
+msgid "Clear History…"
+msgstr "נקה היסטוריה"
+
+#: ui/main.qml:115
+#, kde-format
+msgctxt "@item:inmenu delete krunner history for all activities"
+msgid "For all activities"
+msgstr ""
+
+#: ui/main.qml:127
+#, kde-format
+msgctxt "@item:inmenu delete krunner history for this activity"
+msgid "For activity \"%1\""
+msgstr ""
+
+#: ui/main.qml:144
+#, kde-format
+msgctxt "@label"
+msgid "Plugins:"
+msgstr ""
+
+#: ui/main.qml:148
+#, fuzzy, kde-format
+#| msgid "Configure Search"
+msgctxt "@action:button"
+msgid "Configure Enabled Search Plugins…"
+msgstr "הגדרות חיפוש"
+
+#~ msgid "Clear History"
+#~ msgstr "נקה היסטוריה"
+
+#~ msgid "Available Plugins"
+#~ msgstr "תוספים זמינים"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "אלקנה ברדוגו"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "ttv200@gmail.com"
+
+#, fuzzy
+#~| msgid "Configure Search"
+#~ msgctxt "kcm name for About dialog"
+#~ msgid "Configure search settings"
+#~ msgstr "הגדרות חיפוש"
+
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
+
+#, fuzzy
+#~| msgid "Clear History"
+#~ msgid "KRunner history:"
+#~ msgstr "נקה היסטוריה"
+
+#, fuzzy
+#~| msgid "Clear History"
+#~ msgid "Clear History..."
+#~ msgstr "נקה היסטוריה"
+
+#, fuzzy
+#~| msgid "Select the search plugins"
+#~ msgid "Select the search plugins:"
+#~ msgstr "בחר תוספי חיפוש"

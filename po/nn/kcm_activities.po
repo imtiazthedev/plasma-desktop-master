@@ -1,0 +1,107 @@
+# Translation of kcm_activities to Norwegian Nynorsk
+#
+# Karl Ove Hufthammer <karl@huftis.org>, 2016, 2018, 2019, 2020, 2023.
+# Øystein Steffensen-Alværvik <oysteins.omsetting@protonmail.com>, 2021.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-06-09 02:14+0000\n"
+"PO-Revision-Date: 2023-05-27 14:57+0200\n"
+"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+"Language-Team: Norwegian Nynorsk <l10n-no@lister.huftis.org>\n"
+"Language: nn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 23.04.1\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: ui/ActivityEditor.qml:22
+#, kde-format
+msgctxt "@title:window"
+msgid "Activity Settings for %1"
+msgstr "Aktivitetsoppsett for %1"
+
+#: ui/ActivityEditor.qml:23
+#, kde-format
+msgctxt "@title:window"
+msgid "Create a New Activity"
+msgstr "Legg til ny aktivitet"
+
+#: ui/ActivityEditor.qml:26
+#, kde-format
+msgctxt "@action:button as in, 'save changes'"
+msgid "Save"
+msgstr "Lagra"
+
+#: ui/ActivityEditor.qml:57
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Icon:"
+msgstr "Ikon:"
+
+#: ui/ActivityEditor.qml:68
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Name:"
+msgstr "Namn:"
+
+#: ui/ActivityEditor.qml:74
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Description:"
+msgstr "Skildring:"
+
+#: ui/ActivityEditor.qml:84
+#, kde-format
+msgctxt "@option:check"
+msgid "Privacy:"
+msgstr "Personvern:"
+
+#: ui/ActivityEditor.qml:85
+#, kde-format
+msgid "Do not track usage for this activity"
+msgstr "Ikkje spor bruk i denne aktiviteten"
+
+#: ui/ActivityEditor.qml:91
+#, kde-format
+msgid "Shortcut for switching:"
+msgstr "Snøggtast for byte:"
+
+#: ui/main.qml:55
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Configure %1 activity"
+msgstr "Set opp %1-aktivitet"
+
+#: ui/main.qml:62
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Delete %1 activity"
+msgstr "Slett %1-aktivitet"
+
+#: ui/main.qml:75
+#, kde-format
+msgid "Create New…"
+msgstr "Lag ny …"
+
+#: ui/main.qml:86
+#, kde-format
+msgctxt "@title:window"
+msgid "Delete Activity"
+msgstr "Slett aktivitet"
+
+#: ui/main.qml:88
+#, kde-format
+msgctxt "%1 is an activity name"
+msgid "Do you want to delete activity '%1'?"
+msgstr "Vil du sletta aktiviteten «%1»?"
+
+#: ui/main.qml:93
+#, kde-format
+msgid "Delete Activity"
+msgstr "Slett aktivitet"

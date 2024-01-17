@@ -1,0 +1,341 @@
+# Xavier Besnard <xavier.besnard@neuf.fr>, 2020, 2021.
+# Xavier BESNARD <xavier.besnard@neuf.fr>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-02 02:09+0000\n"
+"PO-Revision-Date: 2023-01-14 19:34+0100\n"
+"Last-Translator: Xavier BESNARD <xavier.besnard]neuf.fr>\n"
+"Language-Team: fr\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.1\n"
+
+#: globalaccelmodel.cpp:202
+#, kde-format
+msgctxt ""
+"%1 is the name of the component, %2 is the action for which saving failed"
+msgid "Error while saving shortcut %1: %2"
+msgstr "Erreur durant l'enregistrement du raccourci %1 : %2"
+
+#: globalaccelmodel.cpp:314
+#, kde-format
+msgctxt "%1 is the name of an application"
+msgid "Error while adding %1, it seems it has no actions."
+msgstr "Erreur durant l'ajout de %1. Il semble n'y avoir aucune action."
+
+#: globalaccelmodel.cpp:357
+#, kde-format
+msgid "Error while communicating with the global shortcuts service"
+msgstr "Erreur durant la communication avec le service des raccourcis globaux"
+
+#: kcm_keys.cpp:57
+#, kde-format
+msgid "Failed to communicate with global shortcuts daemon"
+msgstr "Impossible de communiquer avec le démon des raccourcis généraux"
+
+#: kcm_keys.cpp:312
+#, kde-format
+msgctxt "%2 is the name of a category inside the 'Common Actions' section"
+msgid ""
+"Shortcut %1 is already assigned to the common %2 action '%3'.\n"
+"Do you want to reassign it?"
+msgstr ""
+"Le raccourci %1 est déjà assigné à l'action commune %2 « %3 »\n"
+"Voulez-vous vraiment le ré-assigner ?"
+
+#: kcm_keys.cpp:316
+#, kde-format
+msgid ""
+"Shortcut %1 is already assigned to action '%2' of %3.\n"
+"Do you want to reassign it?"
+msgstr ""
+"Le raccourci %1 est déjà assigné à l'action commune « %2 » de %3\n"
+"Voulez-vous vraiment le ré-assigner ?"
+
+#: kcm_keys.cpp:317
+#, kde-format
+msgctxt "@title:window"
+msgid "Found conflict"
+msgstr "Conflit identifié"
+
+#: standardshortcutsmodel.cpp:34
+#, kde-format
+msgid "File"
+msgstr "Fichier"
+
+#: standardshortcutsmodel.cpp:35
+#, kde-format
+msgid "Edit"
+msgstr "Modifier"
+
+#: standardshortcutsmodel.cpp:37
+#, kde-format
+msgid "Navigation"
+msgstr "Navigation"
+
+#: standardshortcutsmodel.cpp:38
+#, kde-format
+msgid "View"
+msgstr "Affichage"
+
+#: standardshortcutsmodel.cpp:39
+#, kde-format
+msgid "Settings"
+msgstr "Configuration"
+
+#: standardshortcutsmodel.cpp:40
+#, kde-format
+msgid "Help"
+msgstr "Aide"
+
+#: ui/main.qml:27
+#, kde-format
+msgid "Applications"
+msgstr "Applications"
+
+#: ui/main.qml:27
+#, kde-format
+msgid "Commands"
+msgstr "Commandes"
+
+#: ui/main.qml:27
+#, kde-format
+msgid "System Settings"
+msgstr "Configuration du système"
+
+#: ui/main.qml:27
+#, kde-format
+msgid "Common Actions"
+msgstr "Actions communes"
+
+#: ui/main.qml:51
+#, kde-format
+msgid "Cannot export scheme while there are unsaved changes"
+msgstr ""
+"Impossible d'exporter le schéma tant qu'il y a des modifications non "
+"enregistrées"
+
+#: ui/main.qml:63
+#, kde-format
+msgid ""
+"Select the components below that should be included in the exported scheme"
+msgstr ""
+"Sélectionner les composants ci-dessous, devant être inclus dans le schéma "
+"d'exportation"
+
+#: ui/main.qml:69
+#, kde-format
+msgid "Save scheme"
+msgstr "Enregistrer un schéma"
+
+#: ui/main.qml:169
+#, kde-format
+msgctxt "@tooltip:button %1 is the text of a custom command"
+msgid "Edit command for %1"
+msgstr "Modifier la commande pour %1"
+
+#: ui/main.qml:185
+#, kde-format
+msgid "Remove all shortcuts for %1"
+msgstr "Supprimer tous les raccourcis pour %1"
+
+#: ui/main.qml:196
+#, kde-format
+msgid "Undo deletion"
+msgstr "Annuler la suppression"
+
+#: ui/main.qml:247
+#, kde-format
+msgid "No items matched the search terms"
+msgstr "Aucun élément ne correspond aux critères de recherche"
+
+#: ui/main.qml:280
+#, kde-format
+msgid "Select an item from the list to view its shortcuts here"
+msgstr "Sélectionner un élément dans la liste pour afficher ses raccourcis ici"
+
+#: ui/main.qml:305
+#, kde-format
+msgctxt "@action:button Keep translated text as short as possible"
+msgid "Add Application…"
+msgstr "Ajouter une application..."
+
+#: ui/main.qml:315
+#, kde-format
+msgctxt "@action:button Keep translated text as short as possible"
+msgid "Add Command…"
+msgstr "Ajouter une commande..."
+
+#: ui/main.qml:334
+#, kde-format
+msgid "Import Scheme…"
+msgstr "Importer un thème..."
+
+#: ui/main.qml:339
+#, kde-format
+msgid "Cancel Export"
+msgstr "Annuler une exportation"
+
+#: ui/main.qml:339
+#, kde-format
+msgid "Export Scheme…"
+msgstr "Exporter un thème..."
+
+#: ui/main.qml:359
+#, kde-format
+msgid "Export Shortcut Scheme"
+msgstr "Exporter un schéma de raccourcis"
+
+#: ui/main.qml:359 ui/main.qml:475
+#, kde-format
+msgid "Import Shortcut Scheme"
+msgstr "Importer un schéma de raccourcis"
+
+#: ui/main.qml:361
+#, kde-format
+msgctxt "Template for file dialog"
+msgid "Shortcut Scheme (*.kksrc)"
+msgstr "Schéma de raccourcis (*.kksrc)"
+
+#: ui/main.qml:389
+#, kde-format
+msgid "Edit Command"
+msgstr "Modifier une commande"
+
+#: ui/main.qml:389
+#, kde-format
+msgid "Add Command"
+msgstr "Ajouter une commande"
+
+#: ui/main.qml:407
+#, kde-format
+msgid "Save"
+msgstr "Enregistrer"
+
+#: ui/main.qml:407
+#, kde-format
+msgid "Add"
+msgstr "Ajouter"
+
+#: ui/main.qml:432
+#, kde-format
+msgid "Enter a command or choose a script file:"
+msgstr "Saisir une commande ou sélectionner un fichier de script :"
+
+#: ui/main.qml:446
+#, kde-format
+msgctxt "@action:button"
+msgid "Choose…"
+msgstr "Sélectionner..."
+
+#: ui/main.qml:459
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose Script File"
+msgstr "Sélectionner un fichier de script"
+
+#: ui/main.qml:461
+#, kde-format
+msgctxt "Template for file dialog"
+msgid "Script file (*.*sh)"
+msgstr "Fichier de script (*.*sh)"
+
+#: ui/main.qml:482
+#, kde-format
+msgid "Select the scheme to import:"
+msgstr "Sélectionner un schéma à importer :"
+
+#: ui/main.qml:496
+#, kde-format
+msgid "Custom Scheme"
+msgstr "Schéma personnalisé"
+
+#: ui/main.qml:501
+#, kde-format
+msgid "Select File…"
+msgstr "Sélectionner un fichier..."
+
+#: ui/main.qml:501
+#, kde-format
+msgid "Import"
+msgstr "Importer"
+
+#: ui/ShortcutActionDelegate.qml:30
+#, kde-format
+msgid "Editing shortcut: %1"
+msgstr "Modification du raccourci : %1"
+
+#: ui/ShortcutActionDelegate.qml:42
+#, kde-format
+msgctxt ""
+"%1 is the name action that is triggered by the key sequences following "
+"after :"
+msgid "%1:"
+msgstr "%1 :"
+
+#: ui/ShortcutActionDelegate.qml:55
+#, kde-format
+msgid "No active shortcuts"
+msgstr "Aucun raccourci actif"
+
+#: ui/ShortcutActionDelegate.qml:95
+#, kde-format
+msgctxt "%1 decides if singular or plural will be used"
+msgid "Default shortcut"
+msgid_plural "Default shortcuts"
+msgstr[0] "Raccourci par défaut"
+msgstr[1] "Raccourcis par défaut"
+
+#: ui/ShortcutActionDelegate.qml:97
+#, kde-format
+msgid "No default shortcuts"
+msgstr "Aucun raccourci par défaut"
+
+#: ui/ShortcutActionDelegate.qml:105
+#, kde-format
+msgid "Default shortcut %1 is enabled."
+msgstr "Le raccourci par défaut %1 est activé."
+
+#: ui/ShortcutActionDelegate.qml:105
+#, kde-format
+msgid "Default shortcut %1 is disabled."
+msgstr "Le raccourci par défaut %1 est désactivé."
+
+#: ui/ShortcutActionDelegate.qml:126
+#, kde-format
+msgid "Custom shortcuts"
+msgstr "Raccourcis personnalisés"
+
+#: ui/ShortcutActionDelegate.qml:151
+#, kde-format
+msgid "Delete this shortcut"
+msgstr "Supprimer ce raccourci"
+
+#: ui/ShortcutActionDelegate.qml:157
+#, kde-format
+msgid "Add custom shortcut"
+msgstr "Ajouter un raccourci personnalisé"
+
+#: ui/ShortcutActionDelegate.qml:192
+#, kde-format
+msgid "Cancel capturing of new shortcut"
+msgstr "Annuler la construction d'un nouveau raccourci"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Xavier Besnard"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "xavier.besnard@neuf.fr"
+
+#~ msgid "Shortcuts"
+#~ msgstr "Raccourcis"
+
+#~ msgid "David Redondo"
+#~ msgstr "David Redondo"

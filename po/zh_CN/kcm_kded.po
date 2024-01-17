@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-06-29 02:07+0000\n"
+"PO-Revision-Date: 2023-08-02 12:38\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf6-trunk/messages/plasma-desktop/kcm_kded.pot\n"
+"X-Crowdin-File-ID: 43701\n"
+
+#: kcmkded.cpp:115
+#, kde-format
+msgid "Failed to stop service: %1"
+msgstr "停止服务失败：%1"
+
+#: kcmkded.cpp:117
+#, kde-format
+msgid "Failed to start service: %1"
+msgstr "启动服务失败：%1"
+
+#: kcmkded.cpp:124
+#, kde-format
+msgid "Failed to stop service."
+msgstr "停止服务失败。"
+
+#: kcmkded.cpp:126
+#, kde-format
+msgid "Failed to start service."
+msgstr "启动服务失败。"
+
+#: kcmkded.cpp:224
+#, kde-format
+msgid "Failed to notify KDE Service Manager (kded6) of saved changed: %1"
+msgstr "无法将已保存的更改通知到 KDE 服务管理器 (kded6)：%1"
+
+#: ui/main.qml:36
+#, kde-format
+msgid ""
+"The background services manager (kded6) is currently not running. Make sure "
+"it is installed correctly."
+msgstr "后台服务管理器 (kded6) 当前没有运行。请确保已经正确安装了该软件包。"
+
+#: ui/main.qml:45
+#, kde-format
+msgid ""
+"Some services disable themselves again when manually started if they are not "
+"useful in the current environment."
+msgstr "如果在当前环境无法发挥作用，一些服务会在手动启动后再次将自身禁用。"
+
+#: ui/main.qml:54
+#, kde-format
+msgid ""
+"Some services were automatically started/stopped when the background "
+"services manager (kded6) was restarted to apply your changes."
+msgstr ""
+"后台服务管理器 (kded6) 在重新启动以应用更改时，一些服务已被自动启动/停止。"
+
+#: ui/main.qml:96
+#, kde-format
+msgid "All Services"
+msgstr "所有服务"
+
+#: ui/main.qml:97
+#, kde-format
+msgctxt "List running services"
+msgid "Running"
+msgstr "正在运行"
+
+#: ui/main.qml:98
+#, kde-format
+msgctxt "List not running services"
+msgid "Not Running"
+msgstr "不在运行"
+
+#: ui/main.qml:134
+#, kde-format
+msgid "Startup Services"
+msgstr "启动服务"
+
+#: ui/main.qml:135
+#, kde-format
+msgid "Load-on-Demand Services"
+msgstr "按需加载服务"
+
+#: ui/main.qml:152
+#, kde-format
+msgid "Toggle automatically loading this service on startup"
+msgstr "切换是否在启动时自动加载服务"
+
+#: ui/main.qml:219
+#, kde-format
+msgid "Not running"
+msgstr "不在运行"
+
+#: ui/main.qml:220
+#, kde-format
+msgid "Running"
+msgstr "正在运行"
+
+#: ui/main.qml:238
+#, kde-format
+msgid "Stop Service"
+msgstr "停止服务"
+
+#: ui/main.qml:238
+#, kde-format
+msgid "Start Service"
+msgstr "启动服务"

@@ -1,0 +1,253 @@
+# Spanish translations for kcm_componentchooser.po package.
+# Copyright (C) 2021 This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+#
+# Automatically generated, 2021.
+# Eloy Cuadra <ecuadra@eloihr.net>, 2021, 2022, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcm_componentchooser\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-06-22 02:07+0000\n"
+"PO-Revision-Date: 2023-02-04 12:39+0100\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 22.12.2\n"
+
+#: applicationmodel.cpp:67
+#, kde-format
+msgid "Other…"
+msgstr "Otro..."
+
+#. i18n: ectx: label, entry (browserApplication), group (General)
+#: browser_settings.kcfg:9
+#, kde-format
+msgid "Default web browser"
+msgstr "Navegador web predeterminado"
+
+#: components/componentchooserarchivemanager.cpp:15
+#, kde-format
+msgid "Select default archive manager"
+msgstr "Seleccionar el gestor de archivos comprimidos predeterminado"
+
+#: components/componentchooserbrowser.cpp:15
+#, kde-format
+msgid "Select default browser"
+msgstr "Seleccionar el navegador predeterminado"
+
+#: components/componentchooseremail.cpp:20
+#, kde-format
+msgid "Select default e-mail client"
+msgstr "Seleccionar el cliente de correo predeterminado"
+
+#: components/componentchooserfilemanager.cpp:15
+#, kde-format
+msgid "Select default file manager"
+msgstr "Seleccionar el gestor de archivos predeterminado"
+
+#: components/componentchoosergeo.cpp:13
+#, kde-format
+msgid "Select default map"
+msgstr "Seleccionar el mapa predeterminado"
+
+#: components/componentchooserimageviewer.cpp:15
+#, kde-format
+msgid "Select default image viewer"
+msgstr "Seleccionar el visor de imágenes predeterminado"
+
+#: components/componentchoosermusicplayer.cpp:15
+#, kde-format
+msgid "Select default music player"
+msgstr "Seleccionar el reproductor de música predeterminado"
+
+#: components/componentchooserpdfviewer.cpp:11
+#, kde-format
+msgid "Select default PDF viewer"
+msgstr "Seleccionar el visor PDF predeterminado"
+
+#: components/componentchoosertel.cpp:17
+#, kde-format
+msgid "Select default dialer application"
+msgstr "Seleccionar la aplicación para marcar predeterminada"
+
+#: components/componentchooserterminal.cpp:25
+#, kde-format
+msgid "Select default terminal emulator"
+msgstr "Seleccionar el emulador de terminal predeterminado"
+
+#: components/componentchoosertexteditor.cpp:15
+#, kde-format
+msgid "Select default text editor"
+msgstr "Seleccionar el editor de texto predeterminado"
+
+#: components/componentchooservideoplayer.cpp:15
+#, kde-format
+msgid "Select default video player"
+msgstr "Seleccionar el reproductor de vídeo predeterminado"
+
+#: ui/ComponentOverlay.qml:22
+#, kde-format
+msgid "Details"
+msgstr "Detalles"
+
+#: ui/ComponentOverlay.qml:28
+#, kde-format
+msgid ""
+"This application does not advertise support for the following file types:"
+msgstr ""
+"Esta aplicación no anuncia compatibilidad con los siguientes tipos de "
+"archivo:"
+
+#: ui/ComponentOverlay.qml:42
+#, kde-format
+msgctxt "@action:button"
+msgid "Force Open Anyway"
+msgstr "Forzar apertura"
+
+#: ui/ComponentOverlay.qml:50
+#, kde-format
+msgid ""
+"The following file types are still associated with a different application:"
+msgstr ""
+"Los siguientes tipos de archivo siguen asociados a otra aplicación distinta:"
+
+#: ui/ComponentOverlay.qml:59
+#, kde-format
+msgctxt "@label %1 is a MIME type and %2 is an application name"
+msgid "%1 associated with %2"
+msgstr "%1 asociado con %2"
+
+#: ui/ComponentOverlay.qml:65
+#, kde-format
+msgctxt "@action:button %1 is an application name"
+msgid "Re-assign-all to %1"
+msgstr "Reasignar todo a %1"
+
+#: ui/ComponentOverlay.qml:73
+#, kde-format
+msgid "Change file type association manually"
+msgstr "Cambiar la asociación del tipo de archivo a mano"
+
+#: ui/main.qml:17
+#, kde-format
+msgid ""
+"’%1’ seems to not support the following mimetypes associated with this kind "
+"of application: %2"
+msgstr ""
+"Parece que «%1» no es compatible con los siguientes tipos MIME asociados con "
+"esta clase de aplicación: %2"
+
+#: ui/main.qml:45
+#, kde-format
+msgctxt "Internet related application’s category’s name"
+msgid "Internet"
+msgstr "Internet"
+
+#: ui/main.qml:49
+#, kde-format
+msgid "Web browser:"
+msgstr "Navegador web:"
+
+#: ui/main.qml:71
+#, kde-format
+msgid "Email client:"
+msgstr "Cliente de correo electrónico:"
+
+#: ui/main.qml:93
+#, kde-format
+msgctxt "Default phone app"
+msgid "Dialer:"
+msgstr "Marcador:"
+
+#: ui/main.qml:115
+#, kde-format
+msgctxt "Multimedia related application’s category’s name"
+msgid "Multimedia"
+msgstr "Multimedia"
+
+#: ui/main.qml:120
+#, kde-format
+msgid "Image viewer:"
+msgstr "Visor de imágenes:"
+
+#: ui/main.qml:144
+#, kde-format
+msgid "Music player:"
+msgstr "Reproductor de música:"
+
+#: ui/main.qml:167
+#, kde-format
+msgid "Video player:"
+msgstr "Reproductor de vídeo:"
+
+#: ui/main.qml:189
+#, kde-format
+msgctxt "Documents related application’s category’s name"
+msgid "Documents"
+msgstr "Documentos"
+
+#: ui/main.qml:194
+#, kde-format
+msgid "Text editor:"
+msgstr "Editor de texto:"
+
+#: ui/main.qml:216
+#, kde-format
+msgid "PDF viewer:"
+msgstr "Visor PDF:"
+
+#: ui/main.qml:238
+#, kde-format
+msgctxt "Utilities related application’s category’s name"
+msgid "Utilities"
+msgstr "Utilidades"
+
+#: ui/main.qml:243
+#, kde-format
+msgid "File manager:"
+msgstr "Gestor de archivos:"
+
+#: ui/main.qml:265
+#, kde-format
+msgid "Terminal emulator:"
+msgstr "Emulador de terminal:"
+
+#: ui/main.qml:278
+#, kde-format
+msgid "Archive manager:"
+msgstr "Gestor de archivos comprimidos:"
+
+#: ui/main.qml:300
+#, kde-format
+msgctxt "Map related application’s category’s name"
+msgid "Map:"
+msgstr "Mapas:"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Eloy Cuadra"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "ecuadra@eloihr.net"
+
+#~ msgid "Component Chooser"
+#~ msgstr "Selector de componentes"
+
+#~ msgctxt "@title"
+#~ msgid "Default Applications"
+#~ msgstr "Aplicaciones predeterminadas"
+
+#~ msgid "Joseph Wenninger"
+#~ msgstr "Joseph Wenninger"
+
+#~ msgid "Méven Car"
+#~ msgstr "Méven Car"
+
+#~ msgid "Tobias Fella"
+#~ msgstr "Tobias Fella"

@@ -1,0 +1,256 @@
+# Translation of plasma_applet_org.kde.plasma.kicker.po into Serbian.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2014, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.kicker\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-08-26 02:00+0000\n"
+"PO-Revision-Date: 2017-09-25 19:53+0200\n"
+"Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"Language: sr@ijekavian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Environment: kde\n"
+
+#: package/contents/config/config.qml:13
+#, kde-format
+msgid "General"
+msgstr "Опште"
+
+#: package/contents/ui/code/tools.js:42
+#, kde-format
+msgid "Remove from Favorites"
+msgstr "Уклони из омиљених"
+
+#: package/contents/ui/code/tools.js:46
+#, kde-format
+msgid "Add to Favorites"
+msgstr "Додај у омиљене"
+
+#: package/contents/ui/code/tools.js:70
+#, kde-format
+msgid "On All Activities"
+msgstr "На свим активностима"
+
+#: package/contents/ui/code/tools.js:120
+#, fuzzy, kde-format
+#| msgid "On The Current Activity"
+msgid "On the Current Activity"
+msgstr "На текућој активности"
+
+#: package/contents/ui/code/tools.js:134
+#, fuzzy, kde-format
+#| msgid "Show In Favorites"
+msgid "Show in Favorites"
+msgstr "Прикажи у омиљенима"
+
+#: package/contents/ui/ConfigGeneral.qml:46
+#, kde-format
+msgid "Icon:"
+msgstr "Иконица:"
+
+#: package/contents/ui/ConfigGeneral.qml:126
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu Open icon chooser dialog"
+#| msgid "Choose..."
+msgctxt "@item:inmenu Open icon chooser dialog"
+msgid "Choose…"
+msgstr "Изабери..."
+
+#: package/contents/ui/ConfigGeneral.qml:131
+#, kde-format
+msgctxt "@item:inmenu Reset icon to default"
+msgid "Clear Icon"
+msgstr "Очисти иконицу"
+
+#: package/contents/ui/ConfigGeneral.qml:149
+#, kde-format
+msgid "Show applications as:"
+msgstr "Приказуј програме као:"
+
+# >> @item:inlistbox
+#: package/contents/ui/ConfigGeneral.qml:151
+#, kde-format
+msgid "Name only"
+msgstr "само име"
+
+# >> @item:inlistbox
+#: package/contents/ui/ConfigGeneral.qml:151
+#, kde-format
+msgid "Description only"
+msgstr "само опис"
+
+# >> @item:inlistbox
+#: package/contents/ui/ConfigGeneral.qml:151
+#, kde-format
+msgid "Name (Description)"
+msgstr "име (опис)"
+
+# >> @item:inlistbox
+#: package/contents/ui/ConfigGeneral.qml:151
+#, kde-format
+msgid "Description (Name)"
+msgstr "опис (име)"
+
+# >> @title:group
+#: package/contents/ui/ConfigGeneral.qml:161
+#, fuzzy, kde-format
+#| msgid "Behavior"
+msgid "Behavior:"
+msgstr "Понашање"
+
+#: package/contents/ui/ConfigGeneral.qml:163
+#, fuzzy, kde-format
+#| msgid "Sort alphabetically"
+msgid "Sort applications alphabetically"
+msgstr "Поређај азбучно"
+
+# >> @option:check
+#: package/contents/ui/ConfigGeneral.qml:171
+#, fuzzy, kde-format
+#| msgid "Flatten menu to a single level"
+msgid "Flatten sub-menus to a single level"
+msgstr "Мени спљоштен на један ниво"
+
+#: package/contents/ui/ConfigGeneral.qml:179
+#, kde-format
+msgid "Show icons on the root level of the menu"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:189
+#, fuzzy, kde-format
+#| msgid "Categories"
+msgid "Show categories:"
+msgstr "Категорије"
+
+#: package/contents/ui/ConfigGeneral.qml:192
+#, fuzzy, kde-format
+#| msgid "Recent Applications"
+msgid "Recent applications"
+msgstr ""
+"Недавни програми|/|$[својства ген 'недавних програма' аку 'недавне програме']"
+
+#: package/contents/ui/ConfigGeneral.qml:193
+#, fuzzy, kde-format
+#| msgid "Often Used Applications"
+msgid "Often used applications"
+msgstr ""
+"Често коришћени програми|/|$[својства ген 'често коришћених програма' аку "
+"'често коришћене програме']"
+
+#: package/contents/ui/ConfigGeneral.qml:200
+#, fuzzy, kde-format
+#| msgid "Recent Documents"
+msgid "Recent files"
+msgstr ""
+"Недавни документи|/|$[својства ген 'недавних докумената' аку 'недавне "
+"документе']"
+
+#: package/contents/ui/ConfigGeneral.qml:201
+#, fuzzy, kde-format
+#| msgid "Often used"
+msgid "Often used files"
+msgstr "Често коришћено"
+
+#: package/contents/ui/ConfigGeneral.qml:207
+#, kde-format
+msgid "Sort items in categories by:"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:208
+#, fuzzy, kde-format
+#| msgid "Recently used"
+msgctxt ""
+"@item:inlistbox Sort items in categories by [Recently used | Often used]"
+msgid "Recently used"
+msgstr "Недавно коришћено"
+
+#: package/contents/ui/ConfigGeneral.qml:208
+#, fuzzy, kde-format
+#| msgid "Often used"
+msgctxt ""
+"@item:inlistbox Sort items in categories by [Recently used | Ofetn used]"
+msgid "Often used"
+msgstr "Често коришћено"
+
+# >> @title:group
+#: package/contents/ui/ConfigGeneral.qml:218
+#, fuzzy, kde-format
+#| msgid "Search"
+msgid "Search:"
+msgstr "Претрага"
+
+# >> @option:check
+#: package/contents/ui/ConfigGeneral.qml:220
+#, kde-format
+msgid "Expand search to bookmarks, files and emails"
+msgstr "Претражуј и обележиваче, фајлове и е‑пошту"
+
+# >> @option:check
+#: package/contents/ui/ConfigGeneral.qml:228
+#, kde-format
+msgid "Align search results to bottom"
+msgstr "Равнај резултате претраге уз дно"
+
+# >> @info:progress
+#: package/contents/ui/DashboardRepresentation.qml:291
+#, kde-format
+msgid "Searching for '%1'"
+msgstr "Тражим „%1“..."
+
+#: package/contents/ui/DashboardRepresentation.qml:291
+#, fuzzy, kde-format
+#| msgid "Type to search."
+msgctxt "@info:placeholder as in, 'start typing to initiate a search'"
+msgid "Type to search…"
+msgstr "Унесите нешто за тражење."
+
+#: package/contents/ui/DashboardRepresentation.qml:391
+#, kde-format
+msgid "Favorites"
+msgstr "Омиљено"
+
+#: package/contents/ui/DashboardRepresentation.qml:607
+#: package/contents/ui/DashboardTabBar.qml:42
+#, kde-format
+msgid "Widgets"
+msgstr "Виџети"
+
+#: package/contents/ui/DashboardTabBar.qml:31
+#, kde-format
+msgid "Apps & Docs"
+msgstr "Програми и документација"
+
+#: package/contents/ui/main.qml:241
+#, fuzzy, kde-format
+#| msgid "Edit Applications..."
+msgid "Edit Applications…"
+msgstr "Уреди програме..."
+
+#, fuzzy
+#~| msgid "Recent Contacts"
+#~ msgid "Recent contacts"
+#~ msgstr ""
+#~ "Недавни контакти|/|$[својства ген 'недавних контаката' аку 'недавне "
+#~ "контакте']"
+
+#, fuzzy
+#~| msgid "Show often used contacts"
+#~ msgid "Often used contacts"
+#~ msgstr "Прикажи често коришћене контакте"
+
+#, fuzzy
+#~| msgid "Often Used Documents"
+#~ msgid "Often used documents"
+#~ msgstr ""
+#~ "Често коришћени документи|/|$[својства ген 'често коришћених докумената' "
+#~ "аку 'често коришћене документе']"
+
+#~ msgid "Search..."
+#~ msgstr "Тражи..."
